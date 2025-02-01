@@ -3190,3 +3190,46 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Feb2025 22:35:56.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
 [01Feb2025 22:36:17.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
 [01Feb2025 22:36:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:37:10.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:37:10.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Diamonds!]
+[01Feb2025 22:37:23.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:37:48.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:37:48.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:37:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:37:58.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:38:03.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:38:15.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:38:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:38:25.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:38:34.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:39:14.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:39:14.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:39:28.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13301ms or 266 ticks behind
+[01Feb2025 22:39:42.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 died because of Posessed Paladin
+[01Feb2025 22:39:46.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:39:48.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:39:53.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:39:56.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:39:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:40:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:40:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:40:14.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:40:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:40:20.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:40:32.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Posessed Paladin
+[01Feb2025 22:40:34.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Feb2025 22:40:34.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Feb2025 22:40:35.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Posessed Paladin
+[01Feb2025 22:40:54.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by MazeHero547
+[01Feb2025 22:41:40.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[01Feb2025 22:41:52.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[01Feb2025 22:42:46.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Best Friends Forever]
+[01Feb2025 22:43:02.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by MazeHero547
+[01Feb2025 22:44:04.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Knight
+[01Feb2025 22:44:19.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[01Feb2025 22:44:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[01Feb2025 22:45:34.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[01Feb2025 22:45:34.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[01Feb2025 22:46:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[01Feb2025 22:47:08.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[01Feb2025 22:47:12.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Capturing Mobs]
