@@ -35,6 +35,7 @@
       "minecraft:cherry_grove": "2025-01-31 23:46:10 +0000",
       "minecraft:river": "2025-02-01 00:03:32 +0000",
       "minecraft:dripstone_caves": "2025-01-31 23:48:24 +0000",
+      "minecraft:forest": "2025-02-01 21:41:21 +0000",
       "minecraft:frozen_peaks": "2025-01-31 23:50:51 +0000",
       "minecraft:deep_dark": "2025-02-01 01:28:01 +0000",
       "minecraft:meadow": "2025-02-01 00:03:02 +0000",
@@ -2820,6 +2821,24 @@
   "biomancy:recipes/biomancy/decomposing/mob_marrow": {
     "criteria": {
       "has_mob_marrow": "2025-02-01 01:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-01 21:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-01 21:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-01 21:43:19 +0000"
     },
     "done": true
   },

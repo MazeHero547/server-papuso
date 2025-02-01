@@ -457,3 +457,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Feb2025 21:43:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Alex's Caves]
 [01Feb2025 21:43:22.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [01Feb2025 21:43:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [It Belongs in a Museum]
+[01Feb2025 21:44:42.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[01Feb2025 21:44:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[01Feb2025 21:45:01.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
+[01Feb2025 21:45:05.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -7.091087510204943,-3.3750001341104507,-6.4539918808752645
+[01Feb2025 21:45:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[01Feb2025 21:45:15.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Don't. Move.]
+[01Feb2025 21:45:32.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
+[01Feb2025 21:45:51.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3773ms or 75 ticks behind
+[01Feb2025 21:47:22.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Zombie
+[01Feb2025 21:47:36.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was blown up by Peeper
+[01Feb2025 21:54:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
