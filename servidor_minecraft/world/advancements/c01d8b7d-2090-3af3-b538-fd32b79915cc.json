@@ -2866,9 +2866,21 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-02-01 22:26:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_toilet": {
     "criteria": {
       "has_dye": "2025-02-01 22:18:33 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/food/bejeweled_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-01 22:31:19 +0000"
     },
     "done": true
   },
@@ -3301,6 +3313,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-01 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-01 22:31:19 +0000"
     },
     "done": true
   },

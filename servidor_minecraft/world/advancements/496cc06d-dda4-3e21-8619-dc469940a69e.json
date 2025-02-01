@@ -2723,6 +2723,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-02-01 22:26:20 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/silent_quiver": {
     "criteria": {
       "has_feather": "2025-02-01 22:15:11 +0000"
