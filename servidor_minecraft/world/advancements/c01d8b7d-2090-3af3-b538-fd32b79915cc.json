@@ -2824,6 +2824,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-01 21:43:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-02-01 21:44:10 +0000"
@@ -2833,12 +2839,6 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-01 21:44:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-02-01 21:43:19 +0000"
     },
     "done": true
   },

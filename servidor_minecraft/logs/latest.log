@@ -468,3 +468,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Feb2025 21:47:22.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Zombie
 [01Feb2025 21:47:36.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was blown up by Peeper
 [01Feb2025 21:54:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[01Feb2025 21:57:01.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 fell from a high place
+[01Feb2025 21:57:30.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Hot Stuff]
+[01Feb2025 21:57:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ice Bucket Challenge]
+[01Feb2025 21:58:13.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Timed out
+[01Feb2025 21:58:13.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[01Feb2025 21:58:56.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:33183] logged in with entity id 12161 at (-66.84626099911, 174.0, 121.69999998807907)
+[01Feb2025 21:58:56.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[01Feb2025 21:58:56.150] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[01Feb2025 22:01:31.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was impaled on a stalagmite
+[01Feb2025 22:05:57.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was blown up by Peeper
