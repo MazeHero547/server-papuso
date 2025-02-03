@@ -491,3 +491,57 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 01:22:58.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -3.072352058171745,1.1661092609382138,-9.722668026018525
 [03Feb2025 01:22:58.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
 [03Feb2025 01:23:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [We Need to Go Deeper]
+[03Feb2025 01:23:12.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [We Need to Go Deeper]
+[03Feb2025 01:23:16.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3330ms or 66 ticks behind
+[03Feb2025 01:23:20.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was doomed to fall
+[03Feb2025 01:23:32.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Nightmare Fuel]
+[03Feb2025 01:23:50.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
+[03Feb2025 01:23:50.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
+[03Feb2025 01:23:58.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:24:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno tried to swim in lava to escape Crimson Mosquito
+[03Feb2025 01:24:17.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Nightmare Fuel]
+[03Feb2025 01:24:26.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Crimson Mosquito
+[03Feb2025 01:25:03.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Sweet Dreams]
+[03Feb2025 01:25:29.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.656] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:25:30.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:26:42.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Terrible Fortress]
+[03Feb2025 01:26:52.271] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:27:02.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was fireballed by Blaze
+[03Feb2025 01:27:17.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=96, z=65} BlockPos{x=7, y=123, z=74}
+[03Feb2025 01:27:17.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=96, z=65} BlockPos{x=7, y=123, z=74}
+[03Feb2025 01:27:38.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:27:38.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:27:39.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:27:39.109] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:27:39.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 01:27:55.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombified Piglin
+[03Feb2025 01:29:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[03Feb2025 01:29:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[03Feb2025 01:30:12.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[03Feb2025 01:30:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[03Feb2025 01:31:35.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno fell from a high place
+[03Feb2025 01:32:58.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Dungeon Now Loading]
+[03Feb2025 01:33:34.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Stone Age]
+[03Feb2025 01:35:35.468] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3128ms or 62 ticks behind
+[03Feb2025 01:35:42.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.5019705896226014,1.2491870787446828,10.222886339205047
+[03Feb2025 01:35:59.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8702ms or 174 ticks behind
+[03Feb2025 01:37:26.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Getting an Upgrade]
+[03Feb2025 01:38:03.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Feb2025 01:38:21.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2856ms or 57 ticks behind
+[03Feb2025 01:39:07.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03Feb2025 01:39:11.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[03Feb2025 01:39:26.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Labyrinth]
+[03Feb2025 01:39:28.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[03Feb2025 01:40:09.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Chest Slayer]
+[03Feb2025 01:40:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Amateur Archaeologist]
+[03Feb2025 01:40:56.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=28, y=98, z=65}
+[03Feb2025 01:40:56.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=28, y=99, z=65}
+[03Feb2025 01:40:56.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=27, y=98, z=65}
+[03Feb2025 01:40:58.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=27, y=98, z=65}
