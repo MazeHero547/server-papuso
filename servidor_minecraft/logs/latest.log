@@ -576,3 +576,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 01:58:05.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:56353] logged in with entity id 20436 at (-528.1172549113571, 21.0625, -249.19294992961127)
 [03Feb2025 01:58:05.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
 [03Feb2025 01:58:05.496] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[03Feb2025 02:04:49.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno moved too quickly! 6.346655777037199,0.0625,-7.946116613008428
+[03Feb2025 02:06:22.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Cover Me with Diamonds]
+[03Feb2025 02:06:24.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Acquire Hardware]
+[03Feb2025 02:06:30.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Hollow
+[03Feb2025 02:06:51.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[03Feb2025 02:06:51.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[03Feb2025 02:07:13.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:58623] logged in with entity id 22541 at (-559.2126506849621, 21.0, -269.95685622873737)
+[03Feb2025 02:07:13.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[03Feb2025 02:07:13.632] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[03Feb2025 02:10:26.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was spiked to death
+[03Feb2025 02:10:59.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[03Feb2025 02:10:59.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[03Feb2025 02:11:36.554] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:55257] logged in with entity id 23859 at (-582.4694789735404, 22.753199980521202, -245.69999998807907)
+[03Feb2025 02:11:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[03Feb2025 02:11:36.574] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[03Feb2025 02:12:59.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was spiked to death
+[03Feb2025 02:13:13.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno moved too quickly! 1.0233303440425061,0.8800391385729611,10.246169078377676
+[03Feb2025 02:13:21.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[03Feb2025 02:13:21.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[03Feb2025 02:13:59.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:42019] logged in with entity id 24836 at (-553.3255288774519, 21.753199980521202, -251.07739829451822)
+[03Feb2025 02:13:59.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[03Feb2025 02:13:59.911] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
