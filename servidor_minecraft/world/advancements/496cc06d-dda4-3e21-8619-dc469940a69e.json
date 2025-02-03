@@ -4487,6 +4487,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-03 01:22:58 +0000",
@@ -4512,9 +4518,27 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-03 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-03 01:40:09 +0000"
     },
     "done": true
   },
@@ -4536,6 +4560,18 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-02-03 01:45:21 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-02-03 01:50:07 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/elastic_tendon": {
     "criteria": {
       "has_elastic_tendon": "2025-02-03 01:34:27 +0000"
@@ -4551,6 +4587,30 @@
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2025-02-03 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-03 01:46:18 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-03 01:40:10 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
     },
     "done": true
   },

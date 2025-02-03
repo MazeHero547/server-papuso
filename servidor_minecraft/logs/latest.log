@@ -545,3 +545,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 01:40:56.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=28, y=99, z=65}
 [03Feb2025 01:40:56.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=27, y=98, z=65}
 [03Feb2025 01:40:58.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=70, z=325} BlockPos{x=27, y=98, z=65}
+[03Feb2025 01:43:45.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[03Feb2025 01:44:31.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"Laberinto", x:-569, y:21, z:-273, dim:minecraft:overworld]
+[03Feb2025 01:46:28.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Disconnected
+[03Feb2025 01:46:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[03Feb2025 01:50:58.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:40299] logged in with entity id 18490 at (48.69999998807907, 100.0, 120.30000001192093)
+[03Feb2025 01:50:58.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[03Feb2025 01:50:58.328] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[03Feb2025 01:51:30.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[03Feb2025 01:51:32.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[03Feb2025 01:51:33.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[03Feb2025 01:51:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[03Feb2025 01:52:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"Laberinto", x:-569, y:21, z:-273, dim:minecraft:overworld]
+[03Feb2025 01:52:29.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Labyrinth]
+[03Feb2025 01:53:17.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[03Feb2025 01:53:17.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[03Feb2025 01:53:28.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Disconnected
+[03Feb2025 01:53:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[03Feb2025 01:53:28.468] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 01:53:53.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:53461] logged in with entity id 19237 at (-559.2256810278485, 21.0, -269.2508735818526)
+[03Feb2025 01:53:53.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[03Feb2025 01:53:53.143] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
