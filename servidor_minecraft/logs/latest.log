@@ -471,3 +471,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 01:11:22.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.56.145.75:50293] logged in with entity id 5231 at (16.5, 140.0, 87.5)
 [03Feb2025 01:11:22.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
 [03Feb2025 01:11:22.316] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[03Feb2025 01:17:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Monster Hunter]
+[03Feb2025 01:17:31.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Ol' Betsy]
+[03Feb2025 01:18:35.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Take Aim]
+[03Feb2025 01:20:04.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:51243] logged in with entity id 6727 at (-1077.7887252736405, 63.592909105962136, 1709.157689908935)
+[03Feb2025 01:20:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[03Feb2025 01:20:04.261] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[03Feb2025 01:20:14.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[03Feb2025 01:20:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was slain by Zombie
+[03Feb2025 01:20:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> hola
+[03Feb2025 01:20:42.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> hola
+[03Feb2025 01:21:03.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> unete chancho
+[03Feb2025 01:21:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [A Terrifying Entrance]
+[03Feb2025 01:21:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by bengy_999
+[03Feb2025 01:21:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> pasame el meet
+[03Feb2025 01:21:51.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ok
+[03Feb2025 01:22:16.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was shot by MazeHero547
+[03Feb2025 01:22:58.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [We Need to Go Deeper]
+[03Feb2025 01:22:58.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! -3.072352058171745,1.1661092609382138,-9.722668026018525
+[03Feb2025 01:22:58.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[03Feb2025 01:23:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [We Need to Go Deeper]

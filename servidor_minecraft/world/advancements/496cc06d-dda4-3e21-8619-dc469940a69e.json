@@ -4484,6 +4484,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-03 01:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-03 01:17:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
       "has_milk": "2025-02-03 00:44:35 +0000"
