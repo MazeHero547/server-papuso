@@ -38,6 +38,7 @@
       "minecraft:grove": "2025-02-03 02:04:07 +0000",
       "minecraft:forest": "2025-02-03 02:06:05 +0000",
       "minecraft:frozen_peaks": "2025-02-03 01:29:20 +0000",
+      "minecraft:deep_dark": "2025-02-03 02:15:33 +0000",
       "minecraft:plains": "2025-02-03 01:30:26 +0000"
     },
     "done": false
@@ -2106,6 +2107,66 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-03 02:10:56 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/apple": {
+    "criteria": {
+      "has_apple": "2025-02-03 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-02-03 02:15:22 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_spawner_blade": "2025-02-03 02:15:24 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/life_stealer": {
+    "criteria": {
+      "has_spawner_blade": "2025-02-03 02:15:24 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_sword": {
+    "criteria": {
+      "has_spawner_blade": "2025-02-03 02:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-03 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-03 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-02-03 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-03 02:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-03 02:19:15 +0000"
     },
     "done": true
   },

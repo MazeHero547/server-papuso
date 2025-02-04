@@ -2543,27 +2543,27 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-02-01 23:52:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/potato": {
+  "caverns_and_chasms:recipes/building_blocks/lapis_bricks": {
     "criteria": {
-      "has_potato": "2025-02-02 00:01:55 +0000"
+      "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/baking/baked_potato": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_ingredient": "2025-02-02 00:01:55 +0000"
+      "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
     },
     "done": true
   },
@@ -2579,87 +2579,15 @@
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/building_blocks/lapis_bricks": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2025-02-02 00:01:55 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
-    "criteria": {
-      "has_rotten_flesh": "2025-02-01 23:52:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2025-02-01 23:52:14 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/grass_block": {
-    "criteria": {
-      "has_grass_block": "2025-02-02 00:20:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-02-02 00:01:55 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/slime_ball": {
-    "criteria": {
-      "has_slime_ball": "2025-02-02 00:01:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-02-02 00:02:41 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/bio_forging/cobweb": {
     "criteria": {
       "has_string": "2025-02-01 23:51:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-02-02 00:01:55 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-02-01 23:34:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-02-01 23:51:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-02-02 00:01:55 +0000"
     },
     "done": true
   },
@@ -2675,27 +2603,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-02-02 00:01:55 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/explosive_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-02-02 00:02:41 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/bio_forging/string": {
     "criteria": {
       "has_string": "2025-02-01 23:51:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-02-02 00:09:39 +0000"
     },
     "done": true
   },
@@ -2705,21 +2615,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-02-02 00:01:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-01 23:51:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-02-02 00:01:55 +0000"
     },
     "done": true
   },
@@ -2735,15 +2633,123 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-01 23:51:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-01 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/rotten_flesh_block": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-01 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-01 23:52:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/potato": {
+    "criteria": {
+      "has_potato": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-02 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-02 00:02:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-02-02 00:02:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-02 00:02:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
-      "has_string": "2025-02-01 23:51:56 +0000"
+      "has_cobweb": "2025-02-02 00:09:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-02 00:20:01 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-02-04 21:25:21 +0000"
     },
     "done": true
   },

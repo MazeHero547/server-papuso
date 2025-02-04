@@ -1944,7 +1944,8 @@
       "cooked_porkchop": "2025-02-01 21:40:28 +0000",
       "cooked_beef": "2025-02-01 23:38:36 +0000",
       "bread": "2025-01-31 23:37:16 +0000",
-      "rotten_flesh": "2025-01-31 23:22:28 +0000"
+      "rotten_flesh": "2025-01-31 23:22:28 +0000",
+      "golden_carrot": "2025-02-04 21:26:10 +0000"
     },
     "done": false
   },
@@ -4487,9 +4488,21 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+  "refurbished_furniture:recipes/food/cheese": {
     "criteria": {
-      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
+      "has_milk": "2025-02-03 00:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-03 01:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-03 01:18:35 +0000"
     },
     "done": true
   },
@@ -4500,21 +4513,63 @@
     },
     "done": false
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "shot_arrow": "2025-02-03 01:18:35 +0000"
+      "entered_nether": "2025-02-03 01:22:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:nether/root": {
     "criteria": {
-      "shot_crossbow": "2025-02-03 01:17:31 +0000"
+      "entered_nether": "2025-02-03 01:22:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-03 01:24:17 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blood_sac": {
+    "criteria": {
+      "has_blood_sac": "2025-02-03 01:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-03 01:26:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/elastic_tendon": {
+    "criteria": {
+      "has_elastic_tendon": "2025-02-03 01:34:27 +0000"
     },
     "done": true
   },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-02-03 01:39:26 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-03 01:40:09 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-03 01:40:10 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
     },
     "done": true
   },
@@ -4530,33 +4585,15 @@
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
     "criteria": {
-      "fortress": "2025-02-03 01:26:42 +0000"
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
+  "dungeonnowloading:recipes/misc/spawner_blade": {
     "criteria": {
-      "kill_mimic": "2025-02-03 01:40:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-02-03 01:24:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-03 01:22:58 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/blood_sac": {
-    "criteria": {
-      "has_blood_sac": "2025-02-03 01:24:56 +0000"
+      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
     },
     "done": true
   },
@@ -4566,51 +4603,15 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/misc/spawner_frame": {
-    "criteria": {
-      "has_spawner_fragment": "2025-02-03 01:50:07 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/elastic_tendon": {
-    "criteria": {
-      "has_elastic_tendon": "2025-02-03 01:34:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-02-03 01:22:58 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/cheese": {
-    "criteria": {
-      "has_milk": "2025-02-03 00:44:35 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/golden_carrot": {
     "criteria": {
       "has_golden_carrot": "2025-02-03 01:46:18 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_leggings": {
+  "dungeonnowloading:recipes/misc/spawner_frame": {
     "criteria": {
-      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-02-03 01:40:10 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/spawner_blade": {
-    "criteria": {
-      "has_spawner_frame": "2025-02-03 01:44:05 +0000"
+      "has_spawner_fragment": "2025-02-03 01:50:07 +0000"
     },
     "done": true
   },
