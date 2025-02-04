@@ -2926,3 +2926,48 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 21:33:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
 [04Feb2025 21:36:13.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [04Feb2025 21:36:13.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[04Feb2025 21:40:15.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:40:26.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:41:13.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[04Feb2025 21:41:13.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[04Feb2025 21:42:23.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[04Feb2025 21:42:34.391] [Worker-Main-8/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Feb2025 21:42:35.068] [Worker-Main-28/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Feb2025 21:42:38.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[04Feb2025 21:43:03.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[04Feb2025 21:43:08.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Feb2025 21:44:02.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Local Brewery]
+[04Feb2025 21:44:24.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:45:21.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[04Feb2025 21:45:26.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:45:28.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[04Feb2025 21:45:39.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:45:49.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:46:17.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[04Feb2025 21:46:17.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[04Feb2025 21:47:12.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Skeleton
+[04Feb2025 21:47:22.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:47:50.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 fell from a high place
+[04Feb2025 21:48:01.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:48:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:48:22.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:48:33.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:49:41.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Skeleton
+[04Feb2025 21:49:53.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:50:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported aarincha_20160 to MazeHero547]
+[04Feb2025 21:50:23.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Skeleton
+[04Feb2025 21:50:32.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was spiked to death
+[04Feb2025 21:50:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:50:54.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Skeleton
+[04Feb2025 21:51:17.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[04Feb2025 21:51:18.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[04Feb2025 21:51:19.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was shot by Skeleton
+[04Feb2025 21:51:50.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[04Feb2025 21:56:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[04Feb2025 21:56:17.910] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[04Feb2025 21:56:17.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[04Feb2025 21:56:18.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[04Feb2025 21:57:05.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Take Aim]
+[04Feb2025 21:57:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 burned to death
+[04Feb2025 21:58:39.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was slain by Zombie
+[04Feb2025 21:59:12.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was spiked to death
