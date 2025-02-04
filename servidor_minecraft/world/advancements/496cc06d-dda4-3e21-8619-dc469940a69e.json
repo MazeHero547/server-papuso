@@ -4615,5 +4615,143 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/polished_calcite": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/amethyst_shard": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/calcite_slab": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/calcite_stairs": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/calcite_wall": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/cut_amethyst_brick_wall_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/calcite": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-02-04 21:32:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -446,3 +446,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Feb2025 21:24:38.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"Laberinto", x:-569, y:21, z:-273, dim:minecraft:overworld]
 [04Feb2025 21:25:21.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 has made the advancement [Labyrinth]
 [04Feb2025 21:26:14.700] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[04Feb2025 21:33:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
