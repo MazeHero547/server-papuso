@@ -1125,7 +1125,8 @@
       "minecraft:piglin": "2025-02-03 01:23:55 +0000",
       "minecraft:enderman": "2025-02-01 01:52:25 +0000",
       "minecraft:zombie": "2025-01-31 23:16:39 +0000",
-      "minecraft:drowned": "2025-02-01 22:02:16 +0000"
+      "minecraft:drowned": "2025-02-01 22:02:16 +0000",
+      "minecraft:zombie_villager": "2025-02-04 22:07:59 +0000"
     },
     "done": false
   },
@@ -4681,6 +4682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 22:12:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-02-04 21:52:10 +0000"
@@ -4720,6 +4727,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-02-04 21:52:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 22:12:36 +0000"
     },
     "done": true
   },
@@ -4801,6 +4814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 22:12:36 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/calcite": {
     "criteria": {
       "has_amethyst_shard": "2025-02-04 21:33:06 +0000"
@@ -4846,6 +4865,12 @@
   "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-04 21:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-04 22:12:36 +0000"
     },
     "done": true
   },
