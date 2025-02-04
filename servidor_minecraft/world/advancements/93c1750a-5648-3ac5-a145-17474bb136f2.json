@@ -2802,6 +2802,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-04 21:57:05 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/skull_of_chaos": {
     "criteria": {
       "has_spawner_blade": "2025-02-04 21:38:44 +0000"
@@ -2925,6 +2931,12 @@
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-02-04 21:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-04 21:56:50 +0000"
     },
     "done": true
   },
