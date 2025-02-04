@@ -2802,15 +2802,39 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-04 21:57:05 +0000"
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tile_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/skull_of_chaos": {
     "criteria": {
       "has_spawner_blade": "2025-02-04 21:38:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/mossy_cobblestone_tile_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
     },
     "done": true
   },
@@ -2823,6 +2847,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2025-02-04 21:37:52 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
     },
     "done": true
   },
@@ -2859,6 +2889,18 @@
   "caverns_and_chasms:recipes/tools/bundle": {
     "criteria": {
       "has_leather": "2025-02-04 21:29:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
     },
     "done": true
   },
@@ -2922,15 +2964,39 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-04 21:29:33 +0000"
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-02-04 21:25:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
     },
     "done": true
   },
@@ -3030,6 +3096,18 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tile_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/calcite": {
     "criteria": {
       "has_amethyst_shard": "2025-02-04 21:37:02 +0000"
@@ -3096,6 +3174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-02-04 21:37:52 +0000"
@@ -3111,6 +3195,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-02-04 21:37:52 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tiles_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 22:25:08 +0000"
     },
     "done": true
   },
