@@ -3206,15 +3206,39 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-05 00:15:26 +0000"
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
       "has_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_bricks_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
     },
     "done": true
   },
@@ -3248,9 +3272,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/cut_amethyst_brick_wall_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-02-04 23:58:14 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_slab_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
     },
     "done": true
   },

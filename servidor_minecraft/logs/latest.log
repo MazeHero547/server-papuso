@@ -115,3 +115,13 @@
 [05Feb2025 00:40:27.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [05Feb2025 00:40:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [05Feb2025 00:40:41.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 was spiked to death
+[05Feb2025 00:41:25.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[05Feb2025 00:41:34.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to aarincha_20160]
+[05Feb2025 00:41:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to bengy_999]
+[05Feb2025 00:41:50.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aarincha_20160 lost connection: Disconnected
+[05Feb2025 00:41:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aarincha_20160 left the game
+[05Feb2025 00:41:50.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was blown up by MazeHero547
+[05Feb2025 00:41:53.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[05Feb2025 00:41:53.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[05Feb2025 00:41:54.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 lost connection: Disconnected
+[05Feb2025 00:41:54.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 left the game
