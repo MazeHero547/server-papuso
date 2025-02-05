@@ -2160,6 +2160,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-01 00:24:32 +0000",
       "minecraft:spider": "2025-02-01 23:51:55 +0000",
+      "minecraft:creeper": "2025-02-05 00:21:42 +0000",
       "minecraft:zombie": "2025-02-01 23:52:13 +0000"
     },
     "done": false
@@ -3205,9 +3206,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-05 00:15:26 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-02-04 23:43:15 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
     },
     "done": true
   },
@@ -3220,6 +3239,12 @@
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-02-04 23:43:15 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:sword_on_a_stick": {
+    "criteria": {
+      "requirement": "2025-02-05 00:14:27 +0000"
     },
     "done": true
   },
