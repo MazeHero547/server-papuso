@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-01-31 23:51:12 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-01 23:03:33 +0000",
+      "minecraft:taiga": "2025-02-04 23:54:17 +0000",
       "minecraft:frozen_river": "2025-02-01 23:00:55 +0000",
       "minecraft:cherry_grove": "2025-01-31 23:46:10 +0000",
       "minecraft:sunflower_plains": "2025-02-01 23:19:35 +0000",
@@ -3604,6 +3605,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-03 01:23:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-03 01:23:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-03 01:23:04 +0000"
@@ -3616,15 +3629,153 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "entered_nether": "2025-02-03 01:23:03 +0000"
+      "potion": "2025-02-04 23:43:39 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks": {
     "criteria": {
-      "entered_nether": "2025-02-03 01:23:03 +0000"
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tile_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/mossy_cobblestone_tile_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-04 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-04 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-02-04 23:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-04 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-04 23:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-04 23:54:01 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-02-04 23:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-04 23:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-04 23:45:39 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tile_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tiles_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-04 23:43:22 +0000"
     },
     "done": true
   },
