@@ -3937,75 +3937,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-02-05 00:40:47 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_chestplate": {
-    "criteria": {
-      "has_spawner_frame": "2025-02-05 00:28:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-05 00:35:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-02-05 00:35:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-02-05 00:31:46 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/enchanted_golden_apple": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-05 00:27:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "has_bow": "2025-02-05 00:29:47 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_helmet": {
-    "criteria": {
-      "has_spawner_frame": "2025-02-05 00:28:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_boots": {
-    "criteria": {
-      "has_spawner_frame": "2025-02-05 00:28:55 +0000"
+      "has_enchanted_golden_apple": "2025-02-05 00:27:51 +0000"
     },
     "done": true
   },
@@ -4015,33 +3955,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
-    },
-    "done": true
-  },
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-02-05 00:28:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+  "biomancy:recipes/biomancy/decomposing/mob_sinew": {
     "criteria": {
-      "has_smooth_stone": "2025-02-05 00:40:47 +0000"
+      "has_mob_sinew": "2025-02-05 00:28:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
-      "has_smooth_stone": "2025-02-05 00:40:47 +0000"
+      "has_spawner_frame": "2025-02-05 00:28:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
+      "has_spawner_frame": "2025-02-05 00:28:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-02-05 00:28:55 +0000"
     },
     "done": true
   },
@@ -4057,21 +3997,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-05 00:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-05 00:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-05 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-05 00:35:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-05 00:38:28 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/mob_sinew": {
+  "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
-      "has_mob_sinew": "2025-02-05 00:28:54 +0000"
+      "has_smooth_stone": "2025-02-05 00:40:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-02-05 00:27:51 +0000"
+      "has_smooth_stone": "2025-02-05 00:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-05 00:40:47 +0000"
     },
     "done": true
   },

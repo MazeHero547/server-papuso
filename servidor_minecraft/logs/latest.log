@@ -432,3 +432,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 22:52:56.805] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [06Feb2025 22:52:56.937] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
 [06Feb2025 22:53:02.711] [Server thread/WARN] [ModernFix/]: Dedicated server took 63.485 seconds to load
+[06Feb2025 23:04:54.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bengy_999[/127.21.4.52:37063] logged in with entity id 82 at (-597.3000000119209, 47.0, -283.30000001192093)
+[06Feb2025 23:04:55.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 joined the game
+[06Feb2025 23:04:55.396] [Server thread/INFO] [Jade/]: Syncing config to bengy_999 (c01d8b7d-2090-3af3-b538-fd32b79915cc)
+[06Feb2025 23:05:05.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[06Feb2025 23:05:24.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3583ms or 71 ticks behind
+[06Feb2025 23:05:50.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was spiked to death
+[06Feb2025 23:05:55.764] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7edb1c7f[id=<null>,name=MazeHero547,properties={},legacy=false] (/127.7.104.67:53971) lost connection: Disconnected
+[06Feb2025 23:05:58.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:34383] logged in with entity id 1164 at (-597.3000000119209, 47.0, -283.69999998807907)
+[06Feb2025 23:05:58.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[06Feb2025 23:05:59.021] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[06Feb2025 23:06:11.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> hola gorda
+[06Feb2025 23:06:31.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:07:11.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:07:36.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was spiked to death
+[06Feb2025 23:07:48.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was spiked to death
+[06Feb2025 23:07:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> xd
+[06Feb2025 23:08:02.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a
+[06Feb2025 23:10:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:11:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:11:46.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
