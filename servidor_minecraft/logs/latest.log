@@ -480,3 +480,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 23:21:37.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=88, z=28} BlockPos{x=9, y=107, z=71}
 [06Feb2025 23:21:37.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=88, z=28} BlockPos{x=9, y=108, z=70}
 [06Feb2025 23:21:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> xd
+[06Feb2025 23:28:39.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:29:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
