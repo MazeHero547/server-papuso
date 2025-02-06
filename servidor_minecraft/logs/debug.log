@@ -2929,3 +2929,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Feb2025 23:10:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [06Feb2025 23:11:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [06Feb2025 23:11:46.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[06Feb2025 23:12:21.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[06Feb2025 23:12:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:12:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:12:58.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was spiked to death
+[06Feb2025 23:13:10.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[06Feb2025 23:13:10.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[06Feb2025 23:13:23.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:13:24.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:14:01.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:14:07.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:14:49.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> que hasemos
+[06Feb2025 23:15:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> yo diria que buscar ojos
+[06Feb2025 23:15:18.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Cover Me with Diamonds]
+[06Feb2025 23:16:26.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> voy al nether
+[06Feb2025 23:16:42.675] [Worker-Main-16/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[06Feb2025 23:16:42.949] [Worker-Main-33/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[06Feb2025 23:17:05.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Feb2025 23:17:42.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> sierto
+[06Feb2025 23:17:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> en el neter hay un boss
+[06Feb2025 23:18:10.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[06Feb2025 23:18:10.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[06Feb2025 23:19:13.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Soul Fortress]
+[06Feb2025 23:19:16.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Withered Abomination
+[06Feb2025 23:19:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:20:16.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The Soul Eater]
+[06Feb2025 23:20:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:20:25.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> tp
+[06Feb2025 23:20:30.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[06Feb2025 23:20:54.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[06Feb2025 23:21:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Wither Skeleton
+[06Feb2025 23:21:34.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=88, z=28} BlockPos{x=10, y=107, z=70}
+[06Feb2025 23:21:37.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=88, z=28} BlockPos{x=9, y=107, z=71}
+[06Feb2025 23:21:37.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=15, y=88, z=28} BlockPos{x=9, y=108, z=70}
+[06Feb2025 23:21:41.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> xd

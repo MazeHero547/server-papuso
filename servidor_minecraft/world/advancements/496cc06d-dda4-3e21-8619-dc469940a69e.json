@@ -1117,6 +1117,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-31 23:45:02 +0000",
+      "minecraft:hoglin": "2025-02-06 23:17:36 +0000",
       "minecraft:spider": "2025-01-31 23:21:14 +0000",
       "minecraft:creeper": "2025-02-01 00:06:49 +0000",
       "caverns_and_chasms:peeper": "2025-02-01 21:46:25 +0000",
@@ -5094,6 +5095,30 @@
   "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tiles_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-05 00:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-06 23:18:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-06 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_nugget_from_blasting": {
+    "criteria": {
+      "has_silver_leggings": "2025-02-06 23:10:18 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_nugget_from_smelting": {
+    "criteria": {
+      "has_silver_leggings": "2025-02-06 23:10:18 +0000"
     },
     "done": true
   },
