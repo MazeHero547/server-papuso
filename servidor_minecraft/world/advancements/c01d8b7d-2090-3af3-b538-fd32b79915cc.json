@@ -4076,9 +4076,21 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/tools/tuning_fork": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_harbinger": {
     "criteria": {
       "theharbinger": "2025-02-07 00:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
     },
     "done": true
   },
@@ -4094,15 +4106,51 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-02-07 00:37:28 +0000"
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/copper_ingot": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-06 23:15:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-07 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/smelt_copper": {
+    "criteria": {
+      "copper": "2025-02-07 00:58:44 +0000"
     },
     "done": true
   },
@@ -4118,9 +4166,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "caverns_and_chasms:recipes/building_blocks/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-07 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-07 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
     },
     "done": true
   },
@@ -4142,9 +4220,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/wither_skeleton_skull": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-07 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-02-07 00:58:44 +0000"
     },
     "done": true
   },
@@ -4178,6 +4268,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 00:58:43 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_ancient_factory": {
     "criteria": {
       "factory": "2025-02-07 00:36:44 +0000"
@@ -4196,6 +4292,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-07 00:37:28 +0000"
@@ -4205,6 +4307,30 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-07 00:23:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/floodlight": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-02-07 01:02:35 +0000"
     },
     "done": true
   },
@@ -4232,6 +4358,18 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/decorations/copper_bars": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/toolbox": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 00:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-02-07 00:25:04 +0000"
@@ -4241,6 +4379,12 @@
   "biomancy:recipes/biomancy/bio_forging/wither_skeleton_skull": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-07 00:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-07 00:58:41 +0000"
     },
     "done": true
   },

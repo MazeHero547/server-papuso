@@ -4046,3 +4046,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Feb2025 00:53:16.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [07Feb2025 00:53:16.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [07Feb2025 00:54:15.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by bengy_999
+[07Feb2025 00:58:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was spiked to death
+[07Feb2025 00:58:16.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[07Feb2025 00:58:16.393] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[07Feb2025 00:58:27.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[07Feb2025 00:58:28.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[07Feb2025 00:58:44.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Coppin' Copper]
+[07Feb2025 01:00:53.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was burnt to a crisp whilst fighting The Watcher
+[07Feb2025 01:02:35.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Simple Dungeon Room]
+[07Feb2025 01:03:00.258] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[07Feb2025 01:03:07.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was spiked to death
+[07Feb2025 01:03:16.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[07Feb2025 01:03:16.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[07Feb2025 01:04:03.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Alex's Caves]
+[07Feb2025 01:05:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was obliterated by a sonically-charged shriek
