@@ -1116,8 +1116,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-07 01:54:49 +0000",
       "minecraft:skeleton": "2025-01-31 23:45:02 +0000",
+      "minecraft:ravager": "2025-02-07 01:59:21 +0000",
       "minecraft:hoglin": "2025-02-06 23:17:36 +0000",
+      "minecraft:vindicator": "2025-02-07 01:57:34 +0000",
       "minecraft:spider": "2025-01-31 23:21:14 +0000",
       "minecraft:creeper": "2025-02-01 00:06:49 +0000",
       "caverns_and_chasms:peeper": "2025-02-01 21:46:25 +0000",
@@ -1947,7 +1950,8 @@
       "cooked_beef": "2025-02-01 23:38:36 +0000",
       "bread": "2025-01-31 23:37:16 +0000",
       "rotten_flesh": "2025-01-31 23:22:28 +0000",
-      "golden_carrot": "2025-02-04 21:26:10 +0000"
+      "golden_carrot": "2025-02-04 21:26:10 +0000",
+      "cooked_chicken": "2025-02-07 01:53:47 +0000"
     },
     "done": false
   },
@@ -5446,9 +5450,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-07 02:00:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-02-07 01:01:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
     },
     "done": true
   },
@@ -5457,6 +5473,14 @@
       "has_dripstone_block": "2025-02-07 00:33:10 +0000"
     },
     "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:engineer": "2025-02-07 02:00:41 +0000",
+      "illageandspillage:igniter": "2025-02-07 01:56:09 +0000",
+      "illageandspillage:crocofang": "2025-02-07 01:57:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/honey_bottle": {
     "criteria": {
@@ -5479,6 +5503,12 @@
   "caverns_and_chasms:recipes/building_blocks/chiseled_dripstone_shingles_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2025-02-07 00:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
     },
     "done": true
   },
@@ -5515,6 +5545,12 @@
   "caverns_and_chasms:recipes/building_blocks/dripstone_shingle_slab_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2025-02-07 00:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
     },
     "done": true
   },
