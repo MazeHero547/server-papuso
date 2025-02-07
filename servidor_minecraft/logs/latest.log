@@ -1,3 +1,29 @@
 [07Feb2025 00:13:34.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.154.100.199:43493] logged in with entity id 20077 at (-504.16893920594083, 21.0, -204.92500001192093)
 [07Feb2025 00:13:34.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
 [07Feb2025 00:13:34.796] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[07Feb2025 00:14:04.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[07Feb2025 00:14:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[07Feb2025 00:14:04.915] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Feb2025 00:14:58.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.154.100.199:47277] logged in with entity id 21375 at (-504.16893920594083, 21.0, -204.92500001192093)
+[07Feb2025 00:14:59.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[07Feb2025 00:14:59.064] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[07Feb2025 00:15:05.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> ostia
+[07Feb2025 00:15:24.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> hola tincho
+[07Feb2025 00:15:29.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[07Feb2025 00:15:29.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[07Feb2025 00:15:45.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.154.100.199:33411] logged in with entity id 22596 at (-504.16893920594083, 21.0, -204.92500001192093)
+[07Feb2025 00:15:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[07Feb2025 00:15:45.273] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[07Feb2025 00:17:20.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Feb2025 00:18:33.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> vasquez?
+[07Feb2025 00:19:49.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> si
+[07Feb2025 00:20:00.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> donde estas?
+[07Feb2025 00:20:09.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> explorando ya voy pa ya
+[07Feb2025 00:20:19.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> estoy en el laberintop
+[07Feb2025 00:20:31.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> no lo lotearon todo no?
+[07Feb2025 00:20:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> aaaaaaa matate
+[07Feb2025 00:20:49.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <bengy_999> para que aparescas en el spawn
+[07Feb2025 00:20:57.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[07Feb2025 00:21:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> voy
+[07Feb2025 00:23:29.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Feb2025 00:23:29.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: skibidi<--[HERE]
