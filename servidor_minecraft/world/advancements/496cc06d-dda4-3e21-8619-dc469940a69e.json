@@ -5446,81 +5446,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
-    "criteria": {
-      "has_honeycomb_block": "2025-02-07 01:02:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-02-07 02:25:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-07 02:26:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-07 02:00:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-02-07 02:25:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_gold": {
-    "criteria": {
-      "has_raw_gold_block": "2025-02-07 01:01:20 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-02-07 02:26:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/decorations/dripstone_shingle_wall_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2025-02-07 00:33:10 +0000"
-    },
-    "done": true
-  },
-  "illageandspillage:kill_all_iands": {
-    "criteria": {
-      "illageandspillage:preserver": "2025-02-07 02:32:46 +0000",
-      "illageandspillage:absorber": "2025-02-07 02:10:27 +0000",
-      "illageandspillage:engineer": "2025-02-07 02:00:41 +0000",
-      "illageandspillage:twittollager": "2025-02-07 02:10:16 +0000",
-      "illageandspillage:igniter": "2025-02-07 01:56:09 +0000",
-      "illageandspillage:crocofang": "2025-02-07 01:57:20 +0000",
-      "illageandspillage:freakager": "2025-02-07 02:17:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-02-07 01:02:14 +0000"
     },
     "done": true
   },
@@ -5530,93 +5458,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-02-07 00:54:54 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/gold_nugget": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-07 02:26:42 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/building_blocks/chiseled_dripstone_shingles_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2025-02-07 00:33:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-02-07 02:26:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-02-07 02:26:42 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_small_flowers": {
-    "criteria": {
-      "has_small_flowers": "2025-02-07 02:25:01 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/building_blocks/dripstone_shingles": {
     "criteria": {
       "has_dripstone": "2025-02-07 00:33:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-02-07 00:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-02-07 00:39:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-02-07 02:25:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-02-07 02:12:04 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/nether_star": {
-    "criteria": {
-      "has_nether_star": "2025-02-07 00:39:15 +0000"
     },
     "done": true
   },
@@ -5632,27 +5482,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-02-07 00:38:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
+      "has_nether_star": "2025-02-07 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-02-07 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-07 00:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-07 00:54:54 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-07 00:54:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-02-07 01:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-02-07 01:02:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-02-07 01:02:21 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:preserver": "2025-02-07 02:32:46 +0000",
+      "illageandspillage:absorber": "2025-02-07 02:10:27 +0000",
+      "illageandspillage:engineer": "2025-02-07 02:00:41 +0000",
+      "illageandspillage:twittollager": "2025-02-07 02:10:16 +0000",
+      "illageandspillage:igniter": "2025-02-07 01:56:09 +0000",
+      "illageandspillage:crocofang": "2025-02-07 01:57:20 +0000",
+      "illageandspillage:freakager": "2025-02-07 02:17:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-07 02:00:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 02:01:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-07 02:12:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-07 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_small_flowers": {
+    "criteria": {
+      "has_small_flowers": "2025-02-07 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-07 02:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-02-07 02:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 02:26:42 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-02-07 02:26:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_nugget": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 02:26:42 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-02-07 02:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-07 02:26:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:28:41 +0000"
     },
     "done": true
   },
