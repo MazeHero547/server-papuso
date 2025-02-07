@@ -249,3 +249,78 @@
 [07Feb2025 02:06:13.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [07Feb2025 02:06:26.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [07Feb2025 02:06:35.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62024, l='ServerLevel[New World]', x=336.60, y=120.00, z=-641.00] died, message: 'Unemployed was slain by Vindicator'
+[07Feb2025 02:06:59.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ravager
+[07Feb2025 02:07:08.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Poker
+[07Feb2025 02:07:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Chagrin Sentry
+[07Feb2025 02:07:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Poker
+[07Feb2025 02:07:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Chagrin Sentry
+[07Feb2025 02:08:03.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Chagrin Sentry
+[07Feb2025 02:08:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Sniper
+[07Feb2025 02:08:26.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Poker
+[07Feb2025 02:09:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by MazeHero547
+[07Feb2025 02:09:22.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ravager
+[07Feb2025 02:10:27.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Crocofang
+[07Feb2025 02:10:31.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62017, l='ServerLevel[New World]', x=324.51, y=120.00, z=-648.30] died, message: 'Unemployed was slain by Vindicator'
+[07Feb2025 02:10:38.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shot by Pillager
+[07Feb2025 02:11:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was blown up by Freakager
+[07Feb2025 02:11:21.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was blown up by Freakager
+[07Feb2025 02:12:04.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Surge Protector]
+[07Feb2025 02:12:04.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Surge Protector]
+[07Feb2025 02:13:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was pummeled by Freakager
+[07Feb2025 02:14:36.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was pummeled by Freakager
+[07Feb2025 02:14:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:15:37.172] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66031, l='ServerLevel[New World]', x=304.73, y=119.56, z=-709.39] died, message: 'Unemployed was slain by Ragno'
+[07Feb2025 02:15:38.811] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66124, l='ServerLevel[New World]', x=304.66, y=118.46, z=-711.31] died, message: 'Unemployed was slain by Eyesore'
+[07Feb2025 02:15:45.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was pummeled by Ragno
+[07Feb2025 02:15:51.674] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66129, l='ServerLevel[New World]', x=316.57, y=117.94, z=-660.93] died, message: 'Unemployed was pummeled by Freakager'
+[07Feb2025 02:16:03.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Eyesore
+[07Feb2025 02:16:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was doomed to fall by Eyesore
+[07Feb2025 02:16:10.159] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68837, l='ServerLevel[New World]', x=293.78, y=119.00, z=-678.70] died, message: 'Unemployed was pummeled by entity.illageandspillage.axe'
+[07Feb2025 02:16:12.531] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/68836, l='ServerLevel[New World]', x=293.03, y=119.00, z=-680.47] died, message: 'Nitwit was pummeled by Freakager'
+[07Feb2025 02:16:14.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68840, l='ServerLevel[New World]', x=293.39, y=119.42, z=-678.51] died, message: 'Unemployed was pummeled by Freakager'
+[07Feb2025 02:16:29.069] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/68881, l='ServerLevel[New World]', x=284.04, y=119.00, z=-679.51] died, message: 'Nitwit was slain by Ragno'
+[07Feb2025 02:16:49.074] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68871, l='ServerLevel[New World]', x=323.76, y=120.56, z=-649.83] died, message: 'Unemployed was blown up by Ragno'
+[07Feb2025 02:17:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ragno
+[07Feb2025 02:17:14.168] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68832, l='ServerLevel[New World]', x=335.37, y=119.00, z=-647.28] died, message: 'Unemployed was slain by Eyesore'
+[07Feb2025 02:17:40.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shattered by MazeHero547
+[07Feb2025 02:17:47.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:18:30.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was doomed to fall by Ragno
+[07Feb2025 02:18:30.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was doomed to fall
+[07Feb2025 02:19:03.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ragno
+[07Feb2025 02:19:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:20:00.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:20:14.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68918, l='ServerLevel[New World]', x=280.56, y=112.00, z=-674.65] died, message: 'Unemployed was blown up by Ragno'
+[07Feb2025 02:20:29.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ragno
+[07Feb2025 02:21:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:21:29.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ragno
+[07Feb2025 02:21:42.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:22:08.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was pummeled by Ragno
+[07Feb2025 02:22:11.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ragno
+[07Feb2025 02:22:35.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:24:03.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ragno
+[07Feb2025 02:24:12.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Ragno
+[07Feb2025 02:24:27.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Chagrin Sentry
+[07Feb2025 02:24:33.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was fireballed by Igniter
+[07Feb2025 02:24:42.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=117, z=-669} BlockPos{x=312, y=116, z=-669}
+[07Feb2025 02:24:42.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=314, y=117, z=-669} BlockPos{x=312, y=116, z=-669}
+[07Feb2025 02:24:45.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ravager
+[07Feb2025 02:24:47.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno withered away whilst fighting MazeHero547
+[07Feb2025 02:24:54.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ravager
+[07Feb2025 02:25:03.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was fireballed by Igniter
+[07Feb2025 02:25:04.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Poker
+[07Feb2025 02:25:05.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68819, l='ServerLevel[New World]', x=304.75, y=119.56, z=-701.43] died, message: 'Unemployed was shot by Sniper'
+[07Feb2025 02:25:08.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[07Feb2025 02:25:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Cover Me with Diamonds]
+[07Feb2025 02:25:29.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shot by Skeleton Musketeer
+[07Feb2025 02:25:29.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[07Feb2025 02:25:47.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was blown up by Beeper
+[07Feb2025 02:26:02.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vex
+[07Feb2025 02:26:02.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Zombie
+[07Feb2025 02:26:19.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vindicator
+[07Feb2025 02:26:22.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Vex
+[07Feb2025 02:26:34.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Vex
+[07Feb2025 02:26:36.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vindicator
+[07Feb2025 02:26:49.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Vindicator
+[07Feb2025 02:26:52.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ravager
+[07Feb2025 02:27:04.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Vindicator
+[07Feb2025 02:27:08.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Vindicator

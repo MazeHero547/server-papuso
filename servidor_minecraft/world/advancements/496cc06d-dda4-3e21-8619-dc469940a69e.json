@@ -5476,9 +5476,12 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:absorber": "2025-02-07 02:10:27 +0000",
       "illageandspillage:engineer": "2025-02-07 02:00:41 +0000",
+      "illageandspillage:twittollager": "2025-02-07 02:10:16 +0000",
       "illageandspillage:igniter": "2025-02-07 01:56:09 +0000",
-      "illageandspillage:crocofang": "2025-02-07 01:57:20 +0000"
+      "illageandspillage:crocofang": "2025-02-07 01:57:20 +0000",
+      "illageandspillage:freakager": "2025-02-07 02:17:01 +0000"
     },
     "done": false
   },
@@ -5527,6 +5530,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-02-07 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-07 02:12:04 +0000"
     },
     "done": true
   },
