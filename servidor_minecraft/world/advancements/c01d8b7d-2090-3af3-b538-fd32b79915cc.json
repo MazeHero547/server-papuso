@@ -4136,6 +4136,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-07 01:04:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-02-07 00:58:44 +0000"

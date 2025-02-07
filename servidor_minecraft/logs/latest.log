@@ -171,3 +171,6 @@
 [07Feb2025 01:03:07.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was spiked to death
 [07Feb2025 01:04:03.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 has made the advancement [Alex's Caves]
 [07Feb2025 01:05:05.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bengy_999 was obliterated by a sonically-charged shriek
+[07Feb2025 01:08:21.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bengy_999 moved too quickly! 1.2435673530082987,0.8834822638502118,11.580579947232835
+[07Feb2025 01:15:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shot by Skeleton
+[07Feb2025 01:15:22.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
