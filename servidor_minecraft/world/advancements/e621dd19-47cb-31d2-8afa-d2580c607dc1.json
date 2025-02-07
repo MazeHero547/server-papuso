@@ -32,12 +32,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-03 01:28:41 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-02-07 03:00:53 +0000",
       "minecraft:taiga": "2025-02-03 02:04:04 +0000",
       "minecraft:cherry_grove": "2025-02-03 01:11:23 +0000",
       "minecraft:river": "2025-02-07 01:54:36 +0000",
       "minecraft:dripstone_caves": "2025-02-03 01:31:35 +0000",
       "minecraft:grove": "2025-02-03 02:04:07 +0000",
       "minecraft:forest": "2025-02-03 02:06:05 +0000",
+      "minecraft:lush_caves": "2025-02-07 03:04:14 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-07 03:02:12 +0000",
       "minecraft:frozen_peaks": "2025-02-03 01:29:20 +0000",
       "minecraft:deep_dark": "2025-02-03 02:15:33 +0000",
       "minecraft:meadow": "2025-02-07 02:02:20 +0000",
@@ -3009,9 +3012,93 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/potato": {
+    "criteria": {
+      "has_potato": "2025-02-07 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-07 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-07 02:55:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_moss_carpet": {
+    "criteria": {
+      "has_moss_carpet": "2025-02-07 03:05:46 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-02-07 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-07 02:57:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-02-07 02:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-07 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-07 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_saplings": {
+    "criteria": {
+      "has_saplings": "2025-02-07 03:05:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-02-07 03:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-07 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-07 02:57:53 +0000"
     },
     "done": true
   },
