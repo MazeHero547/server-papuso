@@ -67,6 +67,8 @@
     "criteria": {
       "minecraft:pillager": "2025-02-03 01:17:22 +0000",
       "minecraft:skeleton": "2025-02-03 01:39:26 +0000",
+      "minecraft:vindicator": "2025-02-07 02:31:59 +0000",
+      "minecraft:spider": "2025-02-07 02:23:36 +0000",
       "minecraft:witch": "2025-02-07 02:10:31 +0000",
       "minecraft:zombie": "2025-02-03 01:24:57 +0000"
     },
@@ -2811,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:33:02 +0000"
+    },
+    "done": true
+  },
   "illageandspillage:kill_all_iands": {
     "criteria": {
       "illageandspillage:preserver": "2025-02-07 02:00:24 +0000",
@@ -2828,6 +2836,12 @@
   "caverns_and_chasms:recipes/decorations/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-07 02:07:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:33:02 +0000"
     },
     "done": true
   },
@@ -2873,6 +2887,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:33:02 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/digesting/nutrient_paste_from_seeds": {
     "criteria": {
       "has_seeds": "2025-02-07 02:07:19 +0000"
@@ -2900,6 +2920,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-07 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/emerald": {
+    "criteria": {
+      "has_emerald": "2025-02-07 02:32:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-07 02:32:06 +0000"
     },
     "done": true
   },
@@ -2942,6 +2974,12 @@
   "skilltree:recipes/misc/traveler_necklace": {
     "criteria": {
       "has_feather": "2025-02-07 02:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-02-07 02:33:02 +0000"
     },
     "done": true
   },
