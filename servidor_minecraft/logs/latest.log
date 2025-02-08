@@ -484,3 +484,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 01:36:03.193] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24fc821a[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:42749) lost connection: Took too long to log in
 [08Feb2025 01:36:03.243] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [08Feb2025 01:36:41.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[08Feb2025 01:38:33.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@43fae482[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:51181): Took too long to log in
+[08Feb2025 01:38:33.410] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43fae482[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:51181) lost connection: Took too long to log in
+[08Feb2025 01:38:33.460] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:39:01.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[08Feb2025 01:39:49.451] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3cfb4c31[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:47697): Took too long to log in
+[08Feb2025 01:39:49.452] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3cfb4c31[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:47697) lost connection: Took too long to log in
+[08Feb2025 01:39:49.498] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:40:41.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[08Feb2025 01:40:51.048] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@36e4a8d7[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:52157): Took too long to log in
+[08Feb2025 01:40:51.049] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36e4a8d7[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:52157) lost connection: Took too long to log in
+[08Feb2025 01:40:51.098] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:41:42.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[08Feb2025 01:41:47.949] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@cb3e279[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:47561): Took too long to log in
+[08Feb2025 01:41:47.950] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@cb3e279[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:47561) lost connection: Took too long to log in
+[08Feb2025 01:41:47.998] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:44:20.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4391b624[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:40055): Took too long to log in
+[08Feb2025 01:44:20.149] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4391b624[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:40055) lost connection: Took too long to log in
+[08Feb2025 01:44:20.193] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:44:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[08Feb2025 01:46:00.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@47025bd2[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:41695): Took too long to log in
+[08Feb2025 01:46:00.451] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47025bd2[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:41695) lost connection: Took too long to log in
+[08Feb2025 01:46:00.498] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
