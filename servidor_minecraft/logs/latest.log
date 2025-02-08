@@ -506,3 +506,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Feb2025 01:46:00.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@47025bd2[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:41695): Took too long to log in
 [08Feb2025 01:46:00.451] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47025bd2[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:41695) lost connection: Took too long to log in
 [08Feb2025 01:46:00.498] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:47:52.293] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fd1d903[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:36745) lost connection: Disconnected
+[08Feb2025 01:48:31.238] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3f49288d[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:35393): Took too long to log in
+[08Feb2025 01:48:31.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f49288d[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.158.219.100:35393) lost connection: Took too long to log in
+[08Feb2025 01:48:31.290] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Feb2025 01:49:33.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.158.219.100:39913] logged in with entity id 14150 at (1073.9743940640353, 98.0, -935.6999999880791)
+[08Feb2025 01:49:33.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[08Feb2025 01:49:33.725] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[08Feb2025 01:49:39.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported tu_pana_gatuno to MazeHero547]
+[08Feb2025 01:51:03.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[08Feb2025 01:51:11.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[08Feb2025 01:51:54.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [It Belongs in a Museum]
