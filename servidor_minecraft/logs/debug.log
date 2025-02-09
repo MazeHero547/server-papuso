@@ -3164,3 +3164,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Feb2025 01:39:24.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [09Feb2025 01:39:25.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
 [09Feb2025 01:41:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ferrouslime
+[09Feb2025 01:43:41.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[09Feb2025 01:43:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[09Feb2025 01:44:27.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[09Feb2025 01:44:27.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[09Feb2025 01:46:49.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> samu no se te escucha
+[09Feb2025 01:47:44.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> samu
+[09Feb2025 01:47:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> no te escucho
+[09Feb2025 01:47:52.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> estoy ocupado
+[09Feb2025 01:47:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> a
+[09Feb2025 01:48:14.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> quiero poner las perlas en mis cosas
+[09Feb2025 01:48:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ponlas
+[09Feb2025 01:49:27.187] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[09Feb2025 01:49:27.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
