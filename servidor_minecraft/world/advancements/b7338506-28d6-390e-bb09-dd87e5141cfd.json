@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-01 00:03:30 +0000",
+      "minecraft:taiga": "2025-02-09 02:14:38 +0000",
       "minecraft:cherry_grove": "2025-02-01 00:03:02 +0000",
       "minecraft:sunflower_plains": "2025-02-01 01:55:11 +0000",
       "minecraft:birch_forest": "2025-02-01 01:59:00 +0000",
@@ -1043,8 +1044,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-01 00:20:19 +0000",
+      "minecraft:vindicator": "2025-02-09 02:24:13 +0000",
       "minecraft:spider": "2025-02-01 00:19:09 +0000",
       "caverns_and_chasms:peeper": "2025-02-01 01:22:33 +0000",
+      "minecraft:evoker": "2025-02-09 02:31:30 +0000",
+      "minecraft:witch": "2025-02-09 02:30:00 +0000",
       "caverns_and_chasms:mime": "2025-02-01 00:45:19 +0000",
       "minecraft:zombie": "2025-02-01 00:19:57 +0000"
     },
@@ -3220,6 +3224,165 @@
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-02-09 02:06:07 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tile_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/mossy_cobblestone_tile_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_bricks_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tile_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/mossy_cobblestone_tiles_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-09 02:10:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-02-09 02:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-09 02:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-09 02:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-02-09 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_hay_block": {
+    "criteria": {
+      "has_hay_block": "2025-02-09 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-09 02:15:32 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_all_iands": {
+    "criteria": {
+      "illageandspillage:spiritcaller": "2025-02-09 02:27:45 +0000",
+      "illageandspillage:preserver": "2025-02-09 02:23:34 +0000",
+      "illageandspillage:igniter": "2025-02-09 02:23:06 +0000",
+      "illageandspillage:crocofang": "2025-02-09 02:21:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-02-09 02:25:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/maggot": {
+    "criteria": {
+      "has_maggot": "2025-02-09 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_spiri": {
+    "criteria": {
+      "requirement": "2025-02-09 02:27:45 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/totem_of_undying": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-09 02:31:41 +0000"
     },
     "done": true
   },

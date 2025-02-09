@@ -70,8 +70,10 @@
     "criteria": {
       "minecraft:pillager": "2025-02-03 01:17:22 +0000",
       "minecraft:skeleton": "2025-02-03 01:39:26 +0000",
+      "minecraft:ravager": "2025-02-09 02:22:40 +0000",
       "minecraft:vindicator": "2025-02-07 02:31:59 +0000",
       "minecraft:spider": "2025-02-07 02:23:36 +0000",
+      "minecraft:evoker": "2025-02-09 02:40:49 +0000",
       "minecraft:witch": "2025-02-07 02:10:31 +0000",
       "minecraft:vex": "2025-02-07 02:50:54 +0000",
       "minecraft:zombie": "2025-02-03 01:24:57 +0000"
@@ -399,6 +401,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-02-07 01:49:45 +0000",
+      "potato": "2025-02-09 02:20:38 +0000",
       "bread": "2025-02-03 02:02:16 +0000",
       "rotten_flesh": "2025-02-03 01:27:14 +0000",
       "glow_berries": "2025-02-08 02:14:13 +0000",
@@ -2750,6 +2753,7 @@
     "criteria": {
       "illageandspillage:preserver": "2025-02-07 02:00:24 +0000",
       "illageandspillage:absorber": "2025-02-07 02:37:18 +0000",
+      "illageandspillage:engineer": "2025-02-09 02:40:52 +0000",
       "illageandspillage:igniter": "2025-02-07 02:10:24 +0000",
       "illageandspillage:crocofang": "2025-02-07 02:10:27 +0000"
     },
@@ -3144,6 +3148,42 @@
       "scarlet": "2025-02-08 02:08:58 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-02-09 02:12:00 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/maggot": {
+    "criteria": {
+      "has_maggot": "2025-02-09 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-09 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-09 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2025-02-09 02:13:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-09 02:34:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
