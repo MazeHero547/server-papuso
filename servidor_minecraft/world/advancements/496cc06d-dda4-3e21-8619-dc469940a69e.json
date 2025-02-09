@@ -5790,21 +5790,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
-    "criteria": {
-      "resistor_shield": "2025-02-09 01:32:27 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-02-09 01:16:53 +0000"
     },
     "done": true
   },
-  "illageandspillage:kill_magi": {
+  "alexscaves:alexscaves/telecore": {
     "criteria": {
-      "requirement": "2025-02-09 02:52:58 +0000"
+      "limestone": "2025-02-09 01:27:30 +0000"
     },
     "done": true
   },
@@ -5814,9 +5808,15 @@
     },
     "done": true
   },
-  "skilltree:recipes/combat/toxic_quiver": {
+  "alexscaves:alexscaves/neodymium_ingot": {
     "criteria": {
-      "has_fermented_spider_eye": "2025-02-09 01:36:28 +0000"
+      "scarlet": "2025-02-09 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-02-09 01:32:27 +0000"
     },
     "done": true
   },
@@ -5838,15 +5838,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "hero_of_the_village": "2025-02-09 02:53:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "scarlet": "2025-02-09 01:32:07 +0000"
+      "has_brown_mushroom": "2025-02-09 01:34:23 +0000"
     },
     "done": true
   },
@@ -5856,21 +5850,27 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-09 01:36:28 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/fermented_spider_eye": {
     "criteria": {
       "has_fermented_spider_eye": "2025-02-09 01:36:28 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/telecore": {
+  "illageandspillage:kill_magi": {
     "criteria": {
-      "limestone": "2025-02-09 01:27:30 +0000"
+      "requirement": "2025-02-09 02:52:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:adventure/hero_of_the_village": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-09 01:34:23 +0000"
+      "hero_of_the_village": "2025-02-09 02:53:00 +0000"
     },
     "done": true
   },
