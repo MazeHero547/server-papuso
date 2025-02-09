@@ -695,3 +695,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Feb2025 02:53:00.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has completed the challenge [Hero of the Village]
 [09Feb2025 02:53:49.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [09Feb2025 02:53:49.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[09Feb2025 02:59:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> [x:-419, y:108, z:275, dim:minecraft:overworld]
+[09Feb2025 02:59:46.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[09Feb2025 02:59:46.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[09Feb2025 03:00:59.300] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3daaff0c[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.102.125.167:51043) lost connection: Disconnected
+[09Feb2025 03:01:05.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.102.125.167:43473] logged in with entity id 55758 at (-418.5, 108.0, 275.5)
+[09Feb2025 03:01:05.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[09Feb2025 03:01:05.837] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[09Feb2025 03:01:35.850] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[09Feb2025 03:01:35.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[09Feb2025 03:02:13.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno hit the ground too hard
+[09Feb2025 03:02:41.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.102.125.167:52801] logged in with entity id 56128 at (-418.5, 108.0, 275.5)
+[09Feb2025 03:02:41.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[09Feb2025 03:02:41.207] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[09Feb2025 03:03:11.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
+[09Feb2025 03:03:11.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[09Feb2025 03:04:20.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@71bd10b1[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.102.125.167:41945): Took too long to log in
+[09Feb2025 03:04:20.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@71bd10b1[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.102.125.167:41945) lost connection: Took too long to log in
+[09Feb2025 03:04:20.056] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Feb2025 03:05:39.190] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@25b6b6bb[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.102.125.167:35299) lost connection: Disconnected
