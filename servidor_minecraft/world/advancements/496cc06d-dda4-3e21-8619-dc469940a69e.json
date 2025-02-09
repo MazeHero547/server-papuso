@@ -5538,6 +5538,7 @@
   },
   "illageandspillage:kill_all_iands": {
     "criteria": {
+      "illageandspillage:magispeller": "2025-02-09 02:52:58 +0000",
       "illageandspillage:preserver": "2025-02-07 02:32:46 +0000",
       "illageandspillage:absorber": "2025-02-07 02:10:27 +0000",
       "illageandspillage:engineer": "2025-02-07 02:00:41 +0000",
@@ -5801,6 +5802,12 @@
     },
     "done": true
   },
+  "illageandspillage:kill_magi": {
+    "criteria": {
+      "requirement": "2025-02-09 02:52:58 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/ferrouslime_ball": {
     "criteria": {
       "has_ferrouslime_ball": "2025-02-09 01:28:11 +0000"
@@ -5828,6 +5835,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-09 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-09 02:53:00 +0000"
     },
     "done": true
   },
