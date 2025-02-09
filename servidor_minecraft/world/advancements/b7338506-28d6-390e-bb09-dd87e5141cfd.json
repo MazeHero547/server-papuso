@@ -2678,6 +2678,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-09 01:39:24 +0000",
       "cooked_beef": "2025-02-01 01:30:47 +0000",
       "enchanted_golden_apple": "2025-02-01 00:57:13 +0000"
     },
@@ -3082,9 +3083,21 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/arsonist_necklace": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_fire_charge": "2025-02-09 01:18:21 +0000"
+      "obsidian": "2025-02-09 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 01:18:18 +0000"
     },
     "done": true
   },
@@ -3097,12 +3110,6 @@
   "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
       "has_nuggets_gold": "2025-02-09 01:18:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-09 01:18:18 +0000"
     },
     "done": true
   },
@@ -3124,15 +3131,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "skilltree:recipes/misc/arsonist_necklace": {
     "criteria": {
-      "has_obsidian": "2025-02-09 01:18:18 +0000"
+      "has_fire_charge": "2025-02-09 01:18:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "alexscaves:alexscaves/resistor_shield": {
     "criteria": {
-      "has_obsidian": "2025-02-09 01:18:18 +0000"
+      "resistor_shield": "2025-02-09 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/iron_nugget": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-09 01:34:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-09 01:34:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-09 01:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-09 01:34:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/fermented_spider_eye": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-02-09 01:34:22 +0000"
     },
     "done": true
   },

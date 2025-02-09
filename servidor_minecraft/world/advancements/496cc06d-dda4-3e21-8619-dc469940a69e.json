@@ -5789,9 +5789,75 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-02-09 01:32:27 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
       "killed": "2025-02-09 01:16:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/ferrouslime_ball": {
+    "criteria": {
+      "has_ferrouslime_ball": "2025-02-09 01:28:11 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-09 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_mushrooms": {
+    "criteria": {
+      "has_mushrooms": "2025-02-09 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-09 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-09 01:34:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "scarlet": "2025-02-09 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-09 01:34:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/fermented_spider_eye": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-09 01:36:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-02-09 01:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-09 01:34:23 +0000"
     },
     "done": true
   },
