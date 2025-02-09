@@ -5746,5 +5746,54 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-08 02:01:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-08 02:02:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-02-08 02:05:20 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_scarlet_neodymium": {
+    "criteria": {
+      "has_raw_scarlet_neodymium": "2025-02-08 02:07:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-02-08 02:07:13 +0000",
+      "azure": "2025-02-08 02:08:59 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_azure_neodymium": {
+    "criteria": {
+      "has_raw_azure_neodymium": "2025-02-08 02:08:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-02-08 02:11:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2025-02-09 01:16:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

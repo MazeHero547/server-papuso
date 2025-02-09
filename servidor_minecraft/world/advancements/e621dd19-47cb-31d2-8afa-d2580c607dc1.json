@@ -401,6 +401,7 @@
       "apple": "2025-02-07 01:49:45 +0000",
       "bread": "2025-02-03 02:02:16 +0000",
       "rotten_flesh": "2025-02-03 01:27:14 +0000",
+      "glow_berries": "2025-02-08 02:14:13 +0000",
       "cooked_chicken": "2025-02-07 01:57:21 +0000"
     },
     "done": false
@@ -3108,17 +3109,41 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-08 01:51:52 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2025-02-08 01:51:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "alexscaves:alexscaves/cave_codex": {
     "criteria": {
-      "has_paper": "2025-02-08 01:51:52 +0000"
+      "cave_codex": "2025-02-08 02:00:50 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-02-08 02:07:15 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_scarlet_neodymium": {
+    "criteria": {
+      "has_raw_scarlet_neodymium": "2025-02-08 02:08:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-02-08 02:08:58 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

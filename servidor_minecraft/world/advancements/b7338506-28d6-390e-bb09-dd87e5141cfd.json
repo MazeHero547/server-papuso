@@ -2893,81 +2893,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "biomancy:recipes/biomancy/decomposing/emerald": {
     "criteria": {
-      "has_chicken": "2025-02-01 01:57:37 +0000"
+      "has_emerald": "2025-02-01 01:54:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_mutton": "2025-02-01 01:57:46 +0000"
+      "has_emerald": "2025-02-01 01:54:25 +0000"
     },
     "done": true
   },
   "biomancy:recipes/biomancy/decomposing/porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-01 01:56:00 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/silent_quiver": {
-    "criteria": {
-      "has_feather": "2025-02-01 01:57:37 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/chicken": {
-    "criteria": {
-      "has_chicken": "2025-02-01 01:57:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-01 02:03:57 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_tall_flowers": {
-    "criteria": {
-      "has_tall_flowers": "2025-02-01 02:03:57 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/forge_feathers": {
-    "criteria": {
-      "has_feathers": "2025-02-01 01:57:37 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-02-01 01:57:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-02-01 01:56:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-02-01 01:57:37 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/beef": {
-    "criteria": {
-      "has_beef": "2025-02-01 01:56:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-02-01 02:03:57 +0000"
     },
     "done": true
   },
@@ -2986,9 +2926,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
-      "has_white_wool": "2025-02-01 01:57:46 +0000"
+      "has_porkchop": "2025-02-01 01:56:00 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/root": {
+    "criteria": {
+      "has_raw_meats": "2025-02-01 01:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-01 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/beef": {
+    "criteria": {
+      "has_beef": "2025-02-01 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-01 01:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-02-01 01:57:37 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-02-01 01:57:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/chicken": {
+    "criteria": {
+      "has_chicken": "2025-02-01 01:57:37 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/forge_feathers": {
+    "criteria": {
+      "has_feathers": "2025-02-01 01:57:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-02-01 01:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-02-01 01:57:37 +0000"
     },
     "done": true
   },
@@ -2998,45 +2998,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-02-01 01:57:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-02-01 01:57:37 +0000"
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/emerald": {
+  "caverns_and_chasms:recipes/combat/large_arrow": {
     "criteria": {
-      "has_emerald": "2025-02-01 01:54:25 +0000"
+      "has_feather": "2025-02-01 01:57:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "skilltree:recipes/misc/traveler_necklace": {
     "criteria": {
-      "has_emerald": "2025-02-01 01:54:25 +0000"
+      "has_feather": "2025-02-01 01:57:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_porkchop": "2025-02-01 01:56:00 +0000"
+      "has_mutton": "2025-02-01 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-01 01:57:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-01 01:57:46 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-01 01:57:46 +0000"
-    },
-    "done": true
-  },
-  "caverns_and_chasms:recipes/combat/large_arrow": {
-    "criteria": {
-      "has_feather": "2025-02-01 01:57:37 +0000"
     },
     "done": true
   },
@@ -3058,27 +3058,81 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/traveler_necklace": {
-    "criteria": {
-      "has_feather": "2025-02-01 01:57:37 +0000"
-    },
-    "done": true
-  },
-  "biomancy:biomancy/root": {
-    "criteria": {
-      "has_raw_meats": "2025-02-01 01:56:00 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/mutton": {
     "criteria": {
       "has_mutton": "2025-02-01 01:57:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_beef": "2025-02-01 01:56:07 +0000"
+      "has_rose_bush": "2025-02-01 02:03:57 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_tall_flowers": {
+    "criteria": {
+      "has_tall_flowers": "2025-02-01 02:03:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-02-01 02:03:57 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-02-09 01:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-09 01:18:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-02-09 01:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-09 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/gold_nugget": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-09 01:18:19 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-02-09 01:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-09 01:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 01:18:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-09 01:18:18 +0000"
     },
     "done": true
   },
