@@ -484,3 +484,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Feb2025 01:47:54.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> a
 [09Feb2025 01:48:14.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> quiero poner las perlas en mis cosas
 [09Feb2025 01:48:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ponlas
+[09Feb2025 01:59:01.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Made From Clouds...]
+[09Feb2025 01:59:40.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"spawner boss", x:-560, y:-54, z:-256, dim:minecraft:overworld]
+[09Feb2025 01:59:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Opposites Attract]
+[09Feb2025 02:01:51.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Push and Pull]
+[09Feb2025 02:02:28.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.158.219.100:44817] logged in with entity id 22177 at (20.5, 135.0, 86.5)
+[09Feb2025 02:02:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[09Feb2025 02:02:28.579] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[09Feb2025 02:02:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a
+[09Feb2025 02:02:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> tinshooooo
+[09Feb2025 02:04:30.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[09Feb2025 02:04:54.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> hello
+[09Feb2025 02:04:58.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> hola
+[09Feb2025 02:05:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shot by Skeleton
+[09Feb2025 02:05:24.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> consegui un escudo para tanquear raids
+[09Feb2025 02:06:05.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by MazeHero547
+[09Feb2025 02:06:07.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Labyrinth]
+[09Feb2025 02:06:18.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> es pa tanquear rids
+[09Feb2025 02:06:19.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> que mrd????
+[09Feb2025 02:06:28.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Disconnected
+[09Feb2025 02:06:28.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[09Feb2025 02:06:28.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Feb2025 02:06:30.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[09Feb2025 02:06:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[09Feb2025 02:06:31.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> repele flechas
+[09Feb2025 02:06:57.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.158.219.100:33499] logged in with entity id 25207 at (11.5, 120.0, 75.5)
+[09Feb2025 02:06:57.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[09Feb2025 02:06:57.585] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[09Feb2025 02:07:33.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> quien es el otro?
+[09Feb2025 02:07:38.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> carlos?
+[09Feb2025 02:07:38.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> carlos
+[09Feb2025 02:07:52.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.102.125.167:33551] logged in with entity id 25361 at (-559.5, -54.0, -255.5)
+[09Feb2025 02:07:52.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[09Feb2025 02:07:52.265] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[09Feb2025 02:08:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> y esta chanchada?
+[09Feb2025 02:08:59.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> chat?
+[09Feb2025 02:09:03.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> que
+[09Feb2025 02:09:22.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> pense que se me fue el internet
+[09Feb2025 02:09:23.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> qque paso
+[09Feb2025 02:09:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> XD
+[09Feb2025 02:09:31.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> a
+[09Feb2025 02:09:44.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> UN PUTO TIGRE
+[09Feb2025 02:09:51.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> siiiiii
+[09Feb2025 02:09:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> QUE BONITO
+[09Feb2025 02:09:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Tiger
+[09Feb2025 02:10:04.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> ujjajajajajaj
+[09Feb2025 02:10:07.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> no es bonito
+[09Feb2025 02:10:18.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was spiked to death
+[09Feb2025 02:10:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> bueno todos pa la raid
+[09Feb2025 02:11:02.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> D:
+[09Feb2025 02:11:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"Base de raids", x:121, y:132, z:-557, dim:minecraft:overworld]
+[09Feb2025 02:11:23.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[09Feb2025 02:11:26.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 02:11:47.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[09Feb2025 02:11:58.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 02:12:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno has made the advancement [Made From Clouds...]
+[09Feb2025 02:12:11.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Adventure Mode]
+[09Feb2025 02:12:15.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 02:12:16.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[09Feb2025 02:12:24.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> vete a la vrg
+[09Feb2025 02:12:31.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> por?
+[09Feb2025 02:12:39.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 02:12:45.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> es una chanchada enorme
+[09Feb2025 02:12:58.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> XD
+[09Feb2025 02:13:05.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> es la chanchada pro max ultra
+[09Feb2025 02:14:06.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> si
+[09Feb2025 02:14:17.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> esto antes era la sala de un jefe

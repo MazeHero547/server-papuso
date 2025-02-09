@@ -2679,6 +2679,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-09 01:39:24 +0000",
+      "cooked_mutton": "2025-02-09 02:02:30 +0000",
       "cooked_beef": "2025-02-01 01:30:47 +0000",
       "enchanted_golden_apple": "2025-02-01 00:57:13 +0000"
     },
@@ -3137,21 +3138,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
-    "criteria": {
-      "resistor_shield": "2025-02-09 01:37:34 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/iron_nugget": {
     "criteria": {
       "has_iron_nugget": "2025-02-09 01:34:22 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/toxic_quiver": {
-    "criteria": {
-      "has_fermented_spider_eye": "2025-02-09 01:36:34 +0000"
     },
     "done": true
   },
@@ -3161,15 +3150,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-02-09 01:37:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2025-02-09 01:34:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-02-09 01:34:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-09 01:36:34 +0000"
     },
     "done": true
   },
@@ -3179,9 +3174,52 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/iron_ring": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_nuggets_iron": "2025-02-09 01:34:22 +0000"
+      "has_gold_backpack": "2025-02-09 01:37:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-02-09 01:37:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_cloudy_temple": {
+    "criteria": {
+      "cloudy_temple": "2025-02-09 01:59:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-02-09 01:59:56 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_azure_neodymium": {
+    "criteria": {
+      "has_raw_azure_neodymium": "2025-02-09 02:01:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-02-09 02:01:51 +0000",
+      "azure": "2025-02-09 02:01:43 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/raw_scarlet_neodymium": {
+    "criteria": {
+      "has_raw_scarlet_neodymium": "2025-02-09 02:01:51 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-02-09 02:06:07 +0000"
     },
     "done": true
   },
