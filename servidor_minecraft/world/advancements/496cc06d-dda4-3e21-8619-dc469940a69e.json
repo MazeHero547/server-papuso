@@ -41,8 +41,10 @@
       "minecraft:river": "2025-02-01 00:03:12 +0000",
       "minecraft:snowy_plains": "2025-02-01 22:24:33 +0000",
       "minecraft:dripstone_caves": "2025-01-31 23:11:14 +0000",
+      "minecraft:snowy_taiga": "2025-02-09 18:30:06 +0000",
       "minecraft:grove": "2025-02-01 23:08:06 +0000",
       "minecraft:jagged_peaks": "2025-02-01 21:32:06 +0000",
+      "minecraft:cold_ocean": "2025-02-09 18:50:48 +0000",
       "minecraft:forest": "2025-02-01 23:28:08 +0000",
       "minecraft:lush_caves": "2025-02-01 22:53:27 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-01 22:56:34 +0000",
@@ -5876,6 +5878,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_big_dripleaf": {
+    "criteria": {
+      "has_big_dripleaf": "2025-02-09 18:38:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 18:27:55 +0000"
@@ -5894,9 +5902,33 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-02-09 18:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-02-09 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/heart_of_the_sea": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-02-09 18:29:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 18:27:55 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-02-09 18:36:13 +0000"
     },
     "done": true
   },
@@ -5909,6 +5941,18 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 18:27:55 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-09 18:37:54 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/prismarine_crystals": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-09 18:29:38 +0000"
     },
     "done": true
   },
@@ -5960,15 +6004,46 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/ender_pearl": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-09 18:37:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 18:27:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-09 18:52:17 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/sand": {
     "criteria": {
       "has_sand": "2025-02-09 18:27:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-02-09 18:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-09 18:52:17 +0000",
+      "ocean_ruin_cold": "2025-02-09 18:52:13 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-02-09 18:31:17 +0000"
     },
     "done": true
   },
@@ -5987,6 +6062,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-09 18:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-09 18:29:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-02-09 18:31:45 +0000"
     },
     "done": true
   },

@@ -478,3 +478,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Feb2025 18:31:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [An Imposter]
 [09Feb2025 18:32:07.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Simple Dungeon Room]
 [09Feb2025 18:32:52.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Spiky Worm
+[09Feb2025 18:33:18.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Feb2025 18:33:37.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shot by Skeleton Musketeer
+[09Feb2025 18:33:41.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7249ms or 144 ticks behind
+[09Feb2025 18:34:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ancient Guardian
+[09Feb2025 18:34:44.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 walked into a cactus whilst trying to escape Ancient Guardian
+[09Feb2025 18:35:10.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ancient Guardian
+[09Feb2025 18:35:34.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ancient Guardian
+[09Feb2025 18:35:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 walked into a cactus whilst trying to escape Ancient Guardian
+[09Feb2025 18:35:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 walked into a cactus whilst trying to escape Ancient Guardian
+[09Feb2025 18:36:01.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ancient Guardian
+[09Feb2025 18:36:07.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Ancient Guardian
+[09Feb2025 18:36:13.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The One - Armed Monster]
+[09Feb2025 18:36:16.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Spider
+[09Feb2025 18:37:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 fell from a high place
+[09Feb2025 18:38:20.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[09Feb2025 18:38:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 18:39:13.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[09Feb2025 18:40:07.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 18:42:48.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[09Feb2025 18:43:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno fell from a high place
+[09Feb2025 18:45:16.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Feb2025 18:46:43.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Disconnected
+[09Feb2025 18:46:43.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[09Feb2025 18:51:14.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[09Feb2025 18:51:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[09Feb2025 18:52:05.469] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:49131] logged in with entity id 28742 at (18.5, 126.0, 82.5)
+[09Feb2025 18:52:05.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[09Feb2025 18:52:05.548] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[09Feb2025 18:52:17.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Respecting the Remnants]

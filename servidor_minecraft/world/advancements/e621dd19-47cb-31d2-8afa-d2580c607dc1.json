@@ -34,15 +34,21 @@
       "minecraft:snowy_slopes": "2025-02-03 01:28:41 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-07 03:00:53 +0000",
       "minecraft:taiga": "2025-02-03 02:04:04 +0000",
+      "minecraft:frozen_river": "2025-02-09 18:32:42 +0000",
       "minecraft:cherry_grove": "2025-02-03 01:11:23 +0000",
+      "minecraft:beach": "2025-02-09 18:41:24 +0000",
       "minecraft:river": "2025-02-07 01:54:36 +0000",
       "minecraft:stony_shore": "2025-02-09 03:15:15 +0000",
+      "minecraft:snowy_plains": "2025-02-09 18:32:19 +0000",
       "minecraft:dripstone_caves": "2025-02-03 01:31:35 +0000",
       "minecraft:grove": "2025-02-03 02:04:07 +0000",
+      "minecraft:jagged_peaks": "2025-02-09 18:36:56 +0000",
+      "minecraft:cold_ocean": "2025-02-09 18:38:54 +0000",
       "minecraft:forest": "2025-02-03 02:06:05 +0000",
       "minecraft:lush_caves": "2025-02-07 03:04:14 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-07 03:02:12 +0000",
       "minecraft:frozen_peaks": "2025-02-03 01:29:20 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-09 18:40:46 +0000",
       "minecraft:deep_dark": "2025-02-03 02:15:33 +0000",
       "minecraft:meadow": "2025-02-07 02:02:20 +0000",
       "minecraft:plains": "2025-02-03 01:30:26 +0000"
@@ -77,6 +83,7 @@
       "minecraft:creeper": "2025-02-09 02:46:32 +0000",
       "minecraft:evoker": "2025-02-09 02:40:49 +0000",
       "minecraft:witch": "2025-02-07 02:10:31 +0000",
+      "minecraft:stray": "2025-02-09 18:34:14 +0000",
       "minecraft:vex": "2025-02-07 02:50:54 +0000",
       "minecraft:zombie": "2025-02-03 01:24:57 +0000"
     },
@@ -3279,6 +3286,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2025-02-09 18:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-09 18:21:34 +0000"
@@ -3351,19 +3364,13 @@
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
-    "criteria": {
-      "loot_simple_dungeon": "2025-02-09 18:22:17 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2025-02-09 18:21:17 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/diamond": {
+    "criteria": {
+      "has_diamond": "2025-02-09 18:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-09 18:21:34 +0000"
     },
@@ -3375,9 +3382,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
-      "has_diamond": "2025-02-09 18:21:34 +0000"
+      "loot_simple_dungeon": "2025-02-09 18:22:17 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-02-09 18:29:39 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/food/bejeweled_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-09 18:33:29 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-09 18:33:29 +0000"
     },
     "done": true
   },
