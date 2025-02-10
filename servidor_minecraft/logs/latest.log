@@ -448,3 +448,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Feb2025 22:03:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Small Price to Pay...]
 [10Feb2025 22:12:31.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [10Feb2025 22:12:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[10Feb2025 23:37:58.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:39997] logged in with entity id 40087 at (-459.129471357568, 127.0, 358.55016324693077)
+[10Feb2025 23:37:58.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[10Feb2025 23:37:58.755] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[10Feb2025 23:39:22.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was slain by Zombie
+[10Feb2025 23:41:14.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[10Feb2025 23:41:14.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[10Feb2025 23:41:14.192] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Feb2025 23:41:46.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:58893] logged in with entity id 41093 at (-419.14570046222815, 111.0, 279.5154232365755)
+[10Feb2025 23:41:46.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[10Feb2025 23:41:46.798] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[10Feb2025 23:42:16.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[10Feb2025 23:42:16.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[10Feb2025 23:42:32.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:44737] logged in with entity id 41413 at (-419.14570046222815, 111.0, 279.5154232365755)
+[10Feb2025 23:42:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[10Feb2025 23:42:32.849] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
