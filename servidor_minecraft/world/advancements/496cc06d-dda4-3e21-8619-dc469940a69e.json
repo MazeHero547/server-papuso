@@ -6168,6 +6168,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/sponge": {
+    "criteria": {
+      "has_sponge": "2025-02-10 20:54:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-02-10 20:41:07 +0000"
