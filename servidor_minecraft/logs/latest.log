@@ -441,3 +441,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Feb2025 20:34:07.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Night Vision to MazeHero547]
 [10Feb2025 22:00:01.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [10Feb2025 22:00:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[10Feb2025 22:00:22.631] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1b96903a[id=<null>,name=MazeHero547,properties={},legacy=false] (/127.7.104.67:37425) lost connection: Disconnected
+[10Feb2025 22:00:26.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:47821] logged in with entity id 35292 at (1076.5278518347113, 57.64745534830092, 1279.4209507590117)
+[10Feb2025 22:00:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[10Feb2025 22:00:26.548] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[10Feb2025 22:03:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Small Price to Pay...]
+[10Feb2025 22:12:31.833] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[10Feb2025 22:12:31.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
