@@ -439,3 +439,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Feb2025 20:30:24.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11827ms or 236 ticks behind
 [10Feb2025 20:31:36.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [10Feb2025 20:34:07.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Night Vision to MazeHero547]
+[10Feb2025 22:00:01.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[10Feb2025 22:00:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
