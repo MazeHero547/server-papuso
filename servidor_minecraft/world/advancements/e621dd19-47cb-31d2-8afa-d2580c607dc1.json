@@ -3606,6 +3606,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-11 01:18:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-02-11 01:03:13 +0000"

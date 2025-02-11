@@ -2,3 +2,9 @@
 [11Feb2025 00:25:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was impaled on a stalagmite
 [11Feb2025 00:36:42.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tu_pana_gatuno> w
 [11Feb2025 00:38:14.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno moved too quickly! 5.023479999151505,-8.0,4.013959286410682
+[11Feb2025 01:15:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was impaled on a stalagmite
+[11Feb2025 01:21:30.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[11Feb2025 01:21:30.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[11Feb2025 01:21:50.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:35987] logged in with entity id 59016 at (-458.70443427276035, 128.0, 356.4964448501214)
+[11Feb2025 01:21:51.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[11Feb2025 01:21:51.020] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
