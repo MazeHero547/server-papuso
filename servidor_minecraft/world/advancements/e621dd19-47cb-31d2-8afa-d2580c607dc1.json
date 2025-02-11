@@ -3606,24 +3606,6 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/baked_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-02-11 01:18:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-11 01:03:13 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/poisonous_potato": {
-    "criteria": {
-      "has_poisonous_potato": "2025-02-11 01:03:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-10 23:57:14 +0000"
@@ -3636,30 +3618,6 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/bone_meal": {
-    "criteria": {
-      "has_bone_meal": "2025-02-11 01:03:13 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-02-11 00:21:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-11 01:03:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-02-11 00:21:47 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-10 23:57:14 +0000"
@@ -3669,6 +3627,114 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-10 23:57:14 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-11 00:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-11 00:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-11 01:03:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-02-11 01:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-11 01:03:13 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-02-11 01:03:22 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-11 01:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-02-11 01:26:31 +0000"
     },
     "done": true
   },
