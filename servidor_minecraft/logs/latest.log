@@ -463,3 +463,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Feb2025 23:42:32.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:44737] logged in with entity id 41413 at (-419.14570046222815, 111.0, 279.5154232365755)
 [10Feb2025 23:42:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
 [10Feb2025 23:42:32.849] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[10Feb2025 23:52:48.757] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[10Feb2025 23:52:48.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[10Feb2025 23:53:37.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tu_pana_gatuno[/127.182.41.132:55865] logged in with entity id 42846 at (-457.57376741726387, 127.0, 358.41760011841063)
+[10Feb2025 23:53:37.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
+[10Feb2025 23:53:37.432] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
+[10Feb2025 23:59:15.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno was shot by Skeleton
