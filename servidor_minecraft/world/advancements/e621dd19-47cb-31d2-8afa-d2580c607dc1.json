@@ -3618,6 +3618,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/pointed_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-11 00:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-11 00:21:47 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-02-10 23:57:14 +0000"
