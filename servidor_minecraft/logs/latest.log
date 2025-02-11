@@ -9,3 +9,11 @@
 [11Feb2025 01:21:51.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno joined the game
 [11Feb2025 01:21:51.020] [Server thread/INFO] [Jade/]: Syncing config to tu_pana_gatuno (e621dd19-47cb-31d2-8afa-d2580c607dc1)
 [11Feb2025 01:34:42.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno moved too quickly! -6.683115241017049,0.5061351021062137,-7.747482738243491
+[11Feb2025 01:54:09.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tu_pana_gatuno lost connection: Timed out
+[11Feb2025 01:54:09.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tu_pana_gatuno left the game
+[11Feb2025 01:55:27.774] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@137eb24c[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.182.41.132:43195): Took too long to log in
+[11Feb2025 01:55:27.776] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@137eb24c[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.182.41.132:43195) lost connection: Took too long to log in
+[11Feb2025 01:55:27.823] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Feb2025 01:56:36.724] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3b56d1a5[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.182.41.132:35643): Took too long to log in
+[11Feb2025 01:56:36.725] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b56d1a5[id=<null>,name=tu_pana_gatuno,properties={},legacy=false] (/127.182.41.132:35643) lost connection: Took too long to log in
+[11Feb2025 01:56:36.773] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
