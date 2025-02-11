@@ -2707,3 +2707,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Feb2025 19:10:18.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [11Feb2025 19:10:21.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
 [11Feb2025 19:10:23.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Feb2025 19:14:33.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[11Feb2025 19:14:33.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[11Feb2025 19:19:33.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[11Feb2025 19:19:33.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[11Feb2025 19:21:11.485] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dwuklo7fv8s]: started parsing
+[11Feb2025 19:21:11.486] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [00dwuklo7fv8s]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:21:59.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01g6y5ktk48iy]: started parsing
+[11Feb2025 19:21:59.104] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01g6y5ktk48iy]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:21:59.221] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/server-papuso/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23169!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
+[11Feb2025 19:22:13.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fcguyqzdu0zo]: started parsing
+[11Feb2025 19:22:13.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fcguyqzdu0zo]: Finished looking at arguments. Finalizing command.
