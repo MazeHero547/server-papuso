@@ -2718,3 +2718,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Feb2025 19:21:59.221] [Server thread/DEBUG] [com.sk89q.worldedit.world.registry.BundledBlockData/]: Using union:/workspaces/server-papuso/servidor_minecraft/mods/worldedit-mod-7.2.15.jar%23169!/com/sk89q/worldedit/world/registry/blocks.120.json for bundled block data.
 [11Feb2025 19:22:13.881] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fcguyqzdu0zo]: started parsing
 [11Feb2025 19:22:13.882] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fcguyqzdu0zo]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:24:33.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[11Feb2025 19:24:33.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[11Feb2025 19:29:33.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[11Feb2025 19:29:33.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[11Feb2025 19:32:11.314] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kmr0mu1ojzf3]: started parsing
+[11Feb2025 19:32:11.314] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0kmr0mu1ojzf3]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:33:01.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vj1zndnaa09q]: started parsing
+[11Feb2025 19:33:01.106] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0vj1zndnaa09q]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:33:24.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bw1naae91a3n]: started parsing
+[11Feb2025 19:33:24.813] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1bw1naae91a3n]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:33:36.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10r1i4rtvtavu]: started parsing
+[11Feb2025 19:33:36.384] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [10r1i4rtvtavu]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:33:54.929] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfpqv5v9yrxf]: started parsing
+[11Feb2025 19:33:54.929] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0wfpqv5v9yrxf]: Finished looking at arguments. Finalizing command.
