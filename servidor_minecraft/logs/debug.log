@@ -2876,3 +2876,37 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [11Feb2025 19:43:21.025] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w9ztfo3nuh4l]: Finished looking at arguments. Finalizing command.
 [11Feb2025 19:43:37.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttv7p0jsjj18]: started parsing
 [11Feb2025 19:43:37.225] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ttv7p0jsjj18]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:44:09.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[11Feb2025 19:44:16.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[11Feb2025 19:44:33.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[11Feb2025 19:44:33.517] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[11Feb2025 19:47:26.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05wg6cju1rnsf]: started parsing
+[11Feb2025 19:47:26.538] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [05wg6cju1rnsf]: Consuming argument ``
+[11Feb2025 19:47:27.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01rltl0yn3hgn]: started parsing
+[11Feb2025 19:47:27.418] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [01rltl0yn3hgn]: Consuming argument `d`
+[11Feb2025 19:47:27.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w5sxljm2f5v9]: started parsing
+[11Feb2025 19:47:27.604] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0w5sxljm2f5v9]: Consuming argument `de`
+[11Feb2025 19:47:27.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15h7c116uinvd]: started parsing
+[11Feb2025 19:47:27.769] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [15h7c116uinvd]: Consuming argument `dee`
+[11Feb2025 19:47:30.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kncwm7x6wqv]: started parsing
+[11Feb2025 19:47:30.267] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kncwm7x6wqv]: Consuming argument `deepslate_bricks`
+[11Feb2025 19:47:30.269] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [11kncwm7x6wqv]: Finished looking at arguments. Finalizing command.
+[11Feb2025 19:49:16.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [184265epfmn56]: started parsing
+[11Feb2025 19:49:16.165] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [184265epfmn56]: Consuming argument ``
+[11Feb2025 19:49:19.283] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0az4jqq37bqm9]: started parsing
+[11Feb2025 19:49:19.283] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0az4jqq37bqm9]: Consuming argument `d`
+[11Feb2025 19:49:19.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a5ewxl3gm8gz]: started parsing
+[11Feb2025 19:49:19.508] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1a5ewxl3gm8gz]: Consuming argument `de`
+[11Feb2025 19:49:19.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v976q8951zmj]: started parsing
+[11Feb2025 19:49:19.682] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0v976q8951zmj]: Consuming argument `dee`
+[11Feb2025 19:49:33.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y6kyqbukpunc]: started parsing
+[11Feb2025 19:49:33.013] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y6kyqbukpunc]: Consuming argument ``
+[11Feb2025 19:49:33.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[11Feb2025 19:49:33.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[11Feb2025 19:49:33.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0odac5p40puiz]: started parsing
+[11Feb2025 19:49:33.814] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0odac5p40puiz]: Consuming argument `p`
+[11Feb2025 19:49:34.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13y7bfhq0ayre]: started parsing
+[11Feb2025 19:49:34.055] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13y7bfhq0ayre]: Consuming argument `po`
+[11Feb2025 19:49:42.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0y2u68ovj4]: started parsing
+[11Feb2025 19:49:42.204] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0y2u68ovj4]: Consuming argument `polished_deepslate`
+[11Feb2025 19:49:42.205] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [17x0y2u68ovj4]: Finished looking at arguments. Finalizing command.
