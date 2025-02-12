@@ -6535,5 +6535,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/magnet": {
+    "criteria": {
+      "scarlet": "2025-02-12 19:56:25 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/decorations/waxed_lightning_rod_from_honeycomb": {
+    "criteria": {
+      "has_lightning_rod": "2025-02-12 19:56:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -40,6 +40,7 @@
       "minecraft:beach": "2025-02-12 18:56:44 +0000",
       "minecraft:river": "2025-02-12 18:51:53 +0000",
       "minecraft:snowy_plains": "2025-02-12 18:54:05 +0000",
+      "minecraft:stony_shore": "2025-02-12 20:01:04 +0000",
       "minecraft:dripstone_caves": "2025-02-01 00:09:18 +0000",
       "minecraft:grove": "2025-02-12 18:47:16 +0000",
       "minecraft:forest": "2025-02-01 01:58:37 +0000",
@@ -3618,6 +3619,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2025-02-12 19:04:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/galena_gauntlet_challenge": {
+    "criteria": {
+      "killed": "2025-02-12 20:01:10 +0000"
     },
     "done": true
   },

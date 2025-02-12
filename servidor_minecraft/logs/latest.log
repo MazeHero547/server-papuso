@@ -483,3 +483,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 19:09:10.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [12Feb2025 19:09:13.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [12Feb2025 19:22:20.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! -0.6825301609751477,-2.8181688159839595,10.07158051116835
+[12Feb2025 19:56:25.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Magnets, How Do They Work?]
+[12Feb2025 20:01:10.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has completed the challenge [Mind over Magnet]
+[12Feb2025 20:02:23.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[12Feb2025 20:02:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
