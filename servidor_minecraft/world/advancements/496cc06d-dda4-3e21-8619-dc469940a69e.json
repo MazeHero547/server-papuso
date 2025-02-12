@@ -52,6 +52,7 @@
       "minecraft:lush_caves": "2025-02-01 22:53:27 +0000",
       "minecraft:frozen_ocean": "2025-02-09 19:13:56 +0000",
       "minecraft:ocean": "2025-02-09 19:02:33 +0000",
+      "minecraft:jungle": "2025-02-12 22:47:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-01 22:56:34 +0000",
       "minecraft:snowy_beach": "2025-02-09 18:27:09 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-09 19:28:02 +0000",
@@ -6553,15 +6554,33 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/cachalot_whale_tooth": {
+    "criteria": {
+      "has_cachalot_whale_tooth": "2025-02-12 22:45:47 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/phantom_membrane": {
     "criteria": {
       "has_phantom_membrane": "2025-02-12 22:20:33 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-12 22:48:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane": {
     "criteria": {
       "has_phantom_membrane": "2025-02-12 22:20:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/apple": {
+    "criteria": {
+      "has_apple": "2025-02-12 22:49:34 +0000"
     },
     "done": true
   },
