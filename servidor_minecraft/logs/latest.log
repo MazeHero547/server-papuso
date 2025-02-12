@@ -526,3 +526,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 20:45:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
 [12Feb2025 20:45:26.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
 [12Feb2025 20:45:26.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
+[12Feb2025 22:09:56.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.130.9.12:41953] logged in with entity id 86502 at (1454.3557808066205, 40.0, -1614.9826107635854)
+[12Feb2025 22:09:56.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Feb2025 22:09:56.054] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Feb2025 22:13:59.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:59429] logged in with entity id 87393 at (1093.3039723440068, 51.0, 1295.481748454998)
+[12Feb2025 22:13:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[12Feb2025 22:13:59.931] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
