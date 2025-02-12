@@ -6498,5 +6498,17 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-02-12 18:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-12 18:35:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

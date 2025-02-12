@@ -32,11 +32,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-01 00:03:30 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-02-12 18:45:38 +0000",
       "minecraft:taiga": "2025-02-09 02:14:38 +0000",
       "minecraft:cherry_grove": "2025-02-01 00:03:02 +0000",
       "minecraft:sunflower_plains": "2025-02-01 01:55:11 +0000",
       "minecraft:birch_forest": "2025-02-01 01:59:00 +0000",
       "minecraft:dripstone_caves": "2025-02-01 00:09:18 +0000",
+      "minecraft:grove": "2025-02-12 18:47:16 +0000",
       "minecraft:forest": "2025-02-01 01:58:37 +0000",
       "minecraft:frozen_peaks": "2025-02-01 01:54:06 +0000",
       "minecraft:deep_dark": "2025-02-01 01:16:01 +0000",
@@ -2685,6 +2687,7 @@
       "cooked_porkchop": "2025-02-09 01:39:24 +0000",
       "cooked_mutton": "2025-02-09 02:02:30 +0000",
       "cooked_beef": "2025-02-01 01:30:47 +0000",
+      "bread": "2025-02-12 18:34:56 +0000",
       "enchanted_golden_apple": "2025-02-01 00:57:13 +0000"
     },
     "done": false
@@ -3357,6 +3360,7 @@
     "criteria": {
       "illageandspillage:spiritcaller": "2025-02-09 02:27:45 +0000",
       "illageandspillage:preserver": "2025-02-09 02:23:34 +0000",
+      "illageandspillage:ragno": "2025-02-12 18:41:01 +0000",
       "illageandspillage:igniter": "2025-02-09 02:23:06 +0000",
       "illageandspillage:crocofang": "2025-02-09 02:21:57 +0000"
     },
@@ -3473,6 +3477,36 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-09 03:08:05 +0000"
+    },
+    "done": true
+  },
+  "illageandspillage:kill_freaky": {
+    "criteria": {
+      "requirement": "2025-02-12 18:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-12 18:45:08 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/goat_horn": {
+    "criteria": {
+      "has_goat_horn": "2025-02-12 18:45:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-12 18:45:08 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/apple": {
+    "criteria": {
+      "has_apple": "2025-02-12 18:36:18 +0000"
     },
     "done": true
   },
