@@ -519,3 +519,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 20:39:06.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [12Feb2025 20:40:55.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
 [12Feb2025 20:40:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Feb2025 20:44:26.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.130.9.12:57441] logged in with entity id 85587 at (28.79167004087062, 95.0, 34.00887826840804)
+[12Feb2025 20:44:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Feb2025 20:44:26.479] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Feb2025 20:45:24.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[12Feb2025 20:45:24.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Feb2025 20:45:26.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
+[12Feb2025 20:45:26.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
