@@ -34,6 +34,7 @@
       "minecraft:snowy_slopes": "2025-02-01 00:03:30 +0000",
       "minecraft:old_growth_pine_taiga": "2025-02-12 18:45:38 +0000",
       "minecraft:taiga": "2025-02-09 02:14:38 +0000",
+      "minecraft:deep_ocean": "2025-02-12 22:20:04 +0000",
       "minecraft:cherry_grove": "2025-02-01 00:03:02 +0000",
       "minecraft:sunflower_plains": "2025-02-01 01:55:11 +0000",
       "minecraft:birch_forest": "2025-02-01 01:59:00 +0000",
@@ -1052,8 +1053,10 @@
       "minecraft:skeleton": "2025-02-01 00:20:19 +0000",
       "minecraft:vindicator": "2025-02-09 02:24:13 +0000",
       "minecraft:spider": "2025-02-01 00:19:09 +0000",
+      "minecraft:creeper": "2025-02-12 22:19:53 +0000",
       "caverns_and_chasms:peeper": "2025-02-01 01:22:33 +0000",
       "minecraft:evoker": "2025-02-09 02:31:30 +0000",
+      "minecraft:phantom": "2025-02-12 22:19:26 +0000",
       "minecraft:witch": "2025-02-09 02:30:00 +0000",
       "caverns_and_chasms:mime": "2025-02-01 00:45:19 +0000",
       "minecraft:zombie": "2025-02-01 00:19:57 +0000"
@@ -4489,6 +4492,24 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-12 20:36:39 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane": {
+    "criteria": {
+      "has_phantom_membrane": "2025-02-12 22:19:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/phantom_membrane": {
+    "criteria": {
+      "has_phantom_membrane": "2025-02-12 22:19:35 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/bio_forging/undead_permeable_membrane_pane": {
+    "criteria": {
+      "has_phantom_membrane": "2025-02-12 22:19:35 +0000"
     },
     "done": true
   },

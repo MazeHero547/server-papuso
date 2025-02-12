@@ -4693,3 +4693,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 22:13:59.870] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 288 classes
 [12Feb2025 22:13:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
 [12Feb2025 22:13:59.931] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[12Feb2025 22:16:45.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[12Feb2025 22:16:45.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[12Feb2025 22:17:09.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:17:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:19:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:19:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:19:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:20:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported PhantomThief1210 to MazeHero547]
+[12Feb2025 22:21:45.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[12Feb2025 22:21:45.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[12Feb2025 22:24:18.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to PhantomThief1210]

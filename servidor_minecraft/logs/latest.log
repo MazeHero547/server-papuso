@@ -532,3 +532,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 22:13:59.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:59429] logged in with entity id 87393 at (1093.3039723440068, 51.0, 1295.481748454998)
 [12Feb2025 22:13:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
 [12Feb2025 22:13:59.931] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[12Feb2025 22:17:09.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:17:12.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:19:09.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:19:22.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:19:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:20:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported PhantomThief1210 to MazeHero547]
+[12Feb2025 22:24:18.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to PhantomThief1210]
