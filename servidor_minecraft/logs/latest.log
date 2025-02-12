@@ -487,3 +487,28 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 20:01:10.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has completed the challenge [Mind over Magnet]
 [12Feb2025 20:02:23.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
 [12Feb2025 20:02:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Feb2025 20:04:52.659] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.130.9.12:51747] logged in with entity id 62473 at (1569.4311172065268, 82.0, -1595.300000011921)
+[12Feb2025 20:04:52.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Feb2025 20:04:52.739] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Feb2025 20:07:07.903] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[12Feb2025 20:07:07.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Feb2025 20:07:07.973] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Feb2025 20:07:14.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.130.9.12:55133] logged in with entity id 64220 at (1453.2535311255338, 40.0, -1614.3643315873474)
+[12Feb2025 20:07:14.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Feb2025 20:07:14.025] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Feb2025 20:08:04.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[12Feb2025 20:08:04.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Feb2025 20:09:20.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.130.9.12:58407] logged in with entity id 65902 at (1452.579817791533, 40.0, -1614.3717792498967)
+[12Feb2025 20:09:20.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Feb2025 20:09:20.695] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Feb2025 20:11:55.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> samu
+[12Feb2025 20:12:05.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> consigueme spinel porfa
+[12Feb2025 20:12:31.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> samu
+[12Feb2025 20:12:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> tp a base
+[12Feb2025 20:14:27.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 20:14:37.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> chucha
+[12Feb2025 20:14:46.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> se me olvido waypoint
+[12Feb2025 20:14:59.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to PhantomThief1210]
+[12Feb2025 20:15:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> que es?
+[12Feb2025 20:15:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> aaaa ok
+[12Feb2025 20:15:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
