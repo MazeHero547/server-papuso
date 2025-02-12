@@ -512,3 +512,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 20:15:35.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> que es?
 [12Feb2025 20:15:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> aaaa ok
 [12Feb2025 20:15:53.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 20:35:58.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 20:36:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 20:37:01.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 20:37:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 drowned
+[12Feb2025 20:39:06.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 20:40:55.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[12Feb2025 20:40:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
