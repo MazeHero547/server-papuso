@@ -539,3 +539,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Feb2025 22:19:44.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [12Feb2025 22:20:03.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported PhantomThief1210 to MazeHero547]
 [12Feb2025 22:24:18.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to PhantomThief1210]
+[12Feb2025 22:24:49.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[12Feb2025 22:24:49.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[12Feb2025 22:26:12.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.130.9.12:47595] logged in with entity id 93537 at (1492.2631618989612, 80.0, -1600.1993110503986)
+[12Feb2025 22:26:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[12Feb2025 22:26:12.985] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[12Feb2025 22:28:21.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [It Belongs in a Museum]
+[12Feb2025 22:31:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:31:24.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:33:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:33:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:33:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[12Feb2025 22:34:09.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[12Feb2025 22:34:13.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
