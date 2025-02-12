@@ -1141,6 +1141,7 @@
       "minecraft:piglin": "2025-02-03 01:23:55 +0000",
       "minecraft:enderman": "2025-02-01 01:52:25 +0000",
       "minecraft:vex": "2025-02-07 02:25:43 +0000",
+      "caverns_and_chasms:mime": "2025-02-12 18:55:30 +0000",
       "minecraft:zombie": "2025-01-31 23:16:39 +0000",
       "minecraft:drowned": "2025-02-01 22:02:16 +0000",
       "minecraft:zombie_villager": "2025-02-04 22:07:59 +0000"
@@ -6507,6 +6508,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-02-12 18:35:26 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blobfish": {
+    "criteria": {
+      "has_blobfish": "2025-02-12 18:54:09 +0000"
     },
     "done": true
   },
