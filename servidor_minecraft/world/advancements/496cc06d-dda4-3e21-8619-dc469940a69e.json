@@ -6765,6 +6765,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-13 21:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6780,6 +6786,15 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-02-13 21:30:36 +0000",
+      "pants": "2025-02-13 21:31:03 +0000",
+      "helmet": "2025-02-13 21:31:05 +0000",
+      "boots": "2025-02-13 21:30:41 +0000"
     },
     "done": true
   },
