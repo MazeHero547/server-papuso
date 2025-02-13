@@ -2697,6 +2697,7 @@
       "cooked_mutton": "2025-02-09 02:02:30 +0000",
       "cooked_beef": "2025-02-01 01:30:47 +0000",
       "bread": "2025-02-12 18:34:56 +0000",
+      "suspicious_stew": "2025-02-13 21:59:34 +0000",
       "enchanted_golden_apple": "2025-02-01 00:57:13 +0000"
     },
     "done": false
@@ -5250,6 +5251,18 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-02-13 21:13:00 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-13 21:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-13 21:59:34 +0000"
     },
     "done": true
   },
