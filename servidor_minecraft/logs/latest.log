@@ -586,3 +586,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Feb2025 21:52:25.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> samu
 [13Feb2025 21:52:28.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> meet
 [13Feb2025 21:52:44.485] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Feb2025 22:03:01.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Feb2025 22:08:04.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was killed by Witch using magic
+[13Feb2025 22:10:21.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was shot by Skeleton
+[13Feb2025 22:10:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was shot by Skeleton
+[13Feb2025 22:11:08.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[13Feb2025 22:11:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Feb2025 22:11:08.445] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
