@@ -6626,9 +6626,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-02-13 19:56:24 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-02-13 19:51:19 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/radgill": {
+    "criteria": {
+      "has_radgill": "2025-02-13 19:56:30 +0000"
     },
     "done": true
   },
