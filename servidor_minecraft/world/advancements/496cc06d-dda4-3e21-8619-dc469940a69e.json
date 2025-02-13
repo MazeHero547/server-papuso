@@ -1137,6 +1137,7 @@
       "minecraft:creeper": "2025-02-01 00:06:49 +0000",
       "caverns_and_chasms:peeper": "2025-02-01 21:46:25 +0000",
       "minecraft:evoker": "2025-02-07 02:29:46 +0000",
+      "minecraft:phantom": "2025-02-13 00:43:19 +0000",
       "minecraft:witch": "2025-02-01 01:44:40 +0000",
       "minecraft:wither_skeleton": "2025-02-03 01:26:49 +0000",
       "minecraft:piglin": "2025-02-03 01:23:55 +0000",
@@ -6554,21 +6555,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/cachalot_whale_tooth": {
-    "criteria": {
-      "has_cachalot_whale_tooth": "2025-02-12 22:45:47 +0000"
-    },
-    "done": true
-  },
   "biomancy:recipes/biomancy/decomposing/phantom_membrane": {
     "criteria": {
       "has_phantom_membrane": "2025-02-12 22:20:33 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-02-12 22:48:04 +0000"
     },
     "done": true
   },
@@ -6578,9 +6567,68 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/cachalot_whale_tooth": {
+    "criteria": {
+      "has_cachalot_whale_tooth": "2025-02-12 22:45:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-02-12 22:48:04 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/apple": {
     "criteria": {
       "has_apple": "2025-02-12 22:49:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_gorilla": {
+    "criteria": {
+      "tame": "2025-02-12 23:06:33 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_subterranodon_egg": {
+    "criteria": {
+      "has_subterranodon_egg": "2025-02-12 23:36:05 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/subterranodon_egg": {
+    "criteria": {
+      "has_subterranodon_egg": "2025-02-12 23:36:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "shirt": "2025-02-13 00:16:00 +0000",
+      "pants": "2025-02-13 00:16:02 +0000",
+      "helmet": "2025-02-13 00:15:59 +0000",
+      "boots": "2025-02-13 00:16:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "magic_conch": "2025-02-13 00:16:39 +0000",
+      "sea_staff": "2025-02-13 00:16:21 +0000",
+      "ortholance": "2025-02-13 00:16:12 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-02-13 00:44:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-02-13 19:51:19 +0000"
     },
     "done": true
   },
