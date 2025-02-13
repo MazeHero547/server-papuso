@@ -6825,6 +6825,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-02-13 21:27:27 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
       "toxic_paste": "2025-02-13 21:19:06 +0000"

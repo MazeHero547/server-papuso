@@ -539,3 +539,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Feb2025 21:20:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
 [13Feb2025 21:20:53.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
 [13Feb2025 21:20:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Feb2025 21:22:55.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.186.60.253:49341] logged in with entity id 44201 at (4611.300000011921, -57.0, 1457.8172659406503)
+[13Feb2025 21:22:55.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Feb2025 21:22:55.175] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Feb2025 21:23:03.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Zombie
+[13Feb2025 21:23:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
+[13Feb2025 21:24:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Feb2025 21:25:22.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[13Feb2025 21:25:22.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Feb2025 21:26:13.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Feb2025 21:26:23.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Feb2025 21:27:27.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Brains and Brawn]
+[13Feb2025 21:29:32.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.186.60.253:43219] logged in with entity id 47951 at (4624.763819888144, -54.0, 1458.7157560079918)
+[13Feb2025 21:29:32.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Feb2025 21:29:32.498] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Feb2025 21:30:28.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Toxic Alloy]
+[13Feb2025 21:30:45.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 suffocated in a wall
+[13Feb2025 21:31:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The One Who Knocks]
+[13Feb2025 21:31:28.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
