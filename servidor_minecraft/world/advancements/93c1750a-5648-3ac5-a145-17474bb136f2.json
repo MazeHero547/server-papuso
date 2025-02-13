@@ -33,10 +33,15 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-01 00:24:03 +0000",
       "minecraft:taiga": "2025-02-04 21:40:12 +0000",
+      "minecraft:deep_ocean": "2025-02-13 20:39:07 +0000",
       "minecraft:cherry_grove": "2025-01-31 23:45:23 +0000",
+      "minecraft:beach": "2025-02-13 20:48:09 +0000",
       "minecraft:river": "2025-02-01 00:02:47 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-13 20:46:38 +0000",
       "minecraft:dripstone_caves": "2025-01-31 23:51:44 +0000",
       "minecraft:forest": "2025-01-31 23:55:32 +0000",
+      "minecraft:ocean": "2025-02-13 20:46:00 +0000",
+      "minecraft:windswept_savanna": "2025-02-13 20:48:36 +0000",
       "minecraft:frozen_peaks": "2025-02-02 00:24:49 +0000",
       "minecraft:deep_dark": "2025-01-31 23:54:10 +0000",
       "minecraft:meadow": "2025-01-31 23:56:35 +0000",
@@ -3206,15 +3211,63 @@
     },
     "done": true
   },
-  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
+      "has_brick": "2025-02-04 23:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-04 23:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-02-04 23:43:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-04 23:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-04 23:59:26 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:sword_on_a_stick": {
+    "criteria": {
+      "requirement": "2025-02-05 00:14:27 +0000"
     },
     "done": true
   },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-05 00:15:26 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_stairs_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_amethyst_block": "2025-02-05 00:39:29 +0000"
     },
     "done": true
   },
@@ -3230,45 +3283,9 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
-    "criteria": {
-      "has_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/building_blocks/cut_amethyst_bricks_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-05 00:39:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-02-04 23:43:15 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-02-05 00:28:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-02-04 23:59:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-02-04 23:43:15 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:sword_on_a_stick": {
-    "criteria": {
-      "requirement": "2025-02-05 00:14:27 +0000"
     },
     "done": true
   },
@@ -3278,21 +3295,75 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-02-04 23:58:14 +0000"
-    },
-    "done": true
-  },
   "caverns_and_chasms:recipes/building_blocks/cut_amethyst_brick_slab_from_amethyst_block_stonecutting": {
     "criteria": {
       "has_amethyst_block": "2025-02-05 00:39:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "has_brick": "2025-02-04 23:43:15 +0000"
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/transportation/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-13 20:48:57 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-13 20:43:08 +0000"
     },
     "done": true
   },
