@@ -6675,6 +6675,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-02-13 21:17:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6777,6 +6783,12 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/toxic_paste": {
+    "criteria": {
+      "has_toxic_paste": "2025-02-13 21:19:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6789,6 +6801,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-02-13 21:16:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-02-13 21:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6798,6 +6822,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-02-13 21:19:06 +0000"
     },
     "done": true
   },

@@ -520,3 +520,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Feb2025 21:07:59.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
 [13Feb2025 21:07:59.034] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
 [13Feb2025 21:08:16.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> XD
+[13Feb2025 21:10:43.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[13Feb2025 21:11:02.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3914ms or 78 ticks behind
+[13Feb2025 21:14:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Zombie
+[13Feb2025 21:15:07.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Feb2025 21:15:50.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Feb2025 21:15:52.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Rust-eze!]
+[13Feb2025 21:16:07.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Smelly Situation]
+[13Feb2025 21:16:37.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[13Feb2025 21:16:50.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[13Feb2025 21:17:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [The Ray Cat Solution]
+[13Feb2025 21:17:42.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[13Feb2025 21:17:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[13Feb2025 21:19:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [THE OOOOOOOOZE]
+[13Feb2025 21:20:09.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.186.60.253:38053] logged in with entity id 43086 at (4624.651301385966, -54.0, 1457.0718137107854)
+[13Feb2025 21:20:09.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[13Feb2025 21:20:09.543] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[13Feb2025 21:20:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Zombie
+[13Feb2025 21:20:53.751] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[13Feb2025 21:20:53.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
