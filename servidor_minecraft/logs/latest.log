@@ -472,3 +472,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Feb2025 23:38:42.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [16Feb2025 23:40:10.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
 [16Feb2025 23:40:13.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[16Feb2025 23:40:58.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[16Feb2025 23:45:08.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:41541] logged in with entity id 4746 at (4553.699999988079, -54.0, 1523.4419090503325)
+[16Feb2025 23:45:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[16Feb2025 23:45:08.472] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[16Feb2025 23:46:53.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[16Feb2025 23:46:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[16Feb2025 23:46:53.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 23:47:22.280] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1108d402[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.104.197.33:42785) lost connection: Disconnected
+[16Feb2025 23:47:26.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:56525] logged in with entity id 6218 at (1444.4494184855882, 40.0, -1616.3971907362213)
+[16Feb2025 23:47:26.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[16Feb2025 23:47:26.444] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)

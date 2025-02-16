@@ -5254,6 +5254,18 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/golden_apple": {
+    "criteria": {
+      "has_golden_apple": "2025-02-13 21:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-13 21:59:34 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/glowstone_dust": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 22:08:26 +0000"
@@ -5266,21 +5278,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/golden_apple": {
-    "criteria": {
-      "has_golden_apple": "2025-02-13 21:57:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-13 22:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-02-13 21:59:34 +0000"
     },
     "done": true
   },
