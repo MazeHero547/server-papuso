@@ -6627,6 +6627,30 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-02-13 19:51:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-02-13 19:56:24 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/radgill": {
+    "criteria": {
+      "has_radgill": "2025-02-13 19:56:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radgill_bucket": {
+    "criteria": {
+      "radgill_bucket": "2025-02-13 20:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6669,18 +6693,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/uranium": {
-    "criteria": {
-      "uranium": "2025-02-13 19:56:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tame_raycat": {
-    "criteria": {
-      "killed": "2025-02-13 21:17:00 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_jar": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6693,12 +6705,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/radon_bottle": {
-    "criteria": {
-      "radon_bottle": "2025-02-13 21:07:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6708,12 +6714,6 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/enter_acid_with_armor": {
-    "criteria": {
-      "enter_acid_with_armor": "2025-02-13 19:51:19 +0000"
     },
     "done": true
   },
@@ -6747,27 +6747,9 @@
     },
     "done": true
   },
-  "biomancy:recipes/biomancy/decomposing/radgill": {
-    "criteria": {
-      "has_radgill": "2025-02-13 19:56:30 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/radgill_bucket": {
-    "criteria": {
-      "radgill_bucket": "2025-02-13 20:10:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/polymer_plate": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-02-13 21:30:28 +0000"
     },
     "done": true
   },
@@ -6789,21 +6771,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/hazmat_armor": {
-    "criteria": {
-      "shirt": "2025-02-13 21:30:36 +0000",
-      "pants": "2025-02-13 21:31:03 +0000",
-      "helmet": "2025-02-13 21:31:05 +0000",
-      "boots": "2025-02-13 21:30:41 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/toxic_paste": {
-    "criteria": {
-      "has_toxic_paste": "2025-02-13 21:19:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
@@ -6813,18 +6780,6 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-02-13 20:36:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sulfur_dust": {
-    "criteria": {
-      "sulfur_dust": "2025-02-13 21:16:07 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/acid_create_rust": {
-    "criteria": {
-      "rust": "2025-02-13 21:15:52 +0000"
     },
     "done": true
   },
@@ -6840,15 +6795,102 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_brainiac": {
+  "alexscaves:alexscaves/radon_bottle": {
     "criteria": {
-      "killed": "2025-02-13 21:27:27 +0000"
+      "radon_bottle": "2025-02-13 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2025-02-13 21:15:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-02-13 21:16:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_raycat": {
+    "criteria": {
+      "killed": "2025-02-13 21:17:00 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/toxic_paste": {
+    "criteria": {
+      "has_toxic_paste": "2025-02-13 21:19:06 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
       "toxic_paste": "2025-02-13 21:19:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-02-13 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-13 21:30:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-02-13 21:30:36 +0000",
+      "pants": "2025-02-13 21:31:03 +0000",
+      "helmet": "2025-02-13 21:31:05 +0000",
+      "boots": "2025-02-13 21:30:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-13 22:21:42 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/blaze_rod": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-13 22:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-13 22:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-02-13 22:21:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-02-13 22:22:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-02-13 22:23:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-02-13 22:24:50 +0000"
     },
     "done": true
   },
