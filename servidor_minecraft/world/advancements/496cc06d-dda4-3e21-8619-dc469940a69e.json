@@ -6894,9 +6894,39 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-02-16 23:57:10 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/corrodent_teeth": {
+    "criteria": {
+      "has_corrodent_teeth": "2025-02-16 23:57:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-02-16 23:59:53 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-16 23:57:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-16 23:37:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_watcher": {
+    "criteria": {
+      "killed": "2025-02-17 00:01:35 +0000"
     },
     "done": true
   },

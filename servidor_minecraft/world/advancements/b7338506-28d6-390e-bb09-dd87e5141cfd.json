@@ -5284,5 +5284,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_corrodent": {
+    "criteria": {
+      "killed": "2025-02-16 23:57:16 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/decomposing/corrodent_teeth": {
+    "criteria": {
+      "has_corrodent_teeth": "2025-02-16 23:59:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
