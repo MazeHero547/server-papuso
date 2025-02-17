@@ -5332,5 +5332,17 @@
     },
     "done": true
   },
+  "caverns_and_chasms:recipes/misc/silver_nugget_from_blasting": {
+    "criteria": {
+      "has_silver_helmet": "2025-02-17 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:recipes/misc/silver_nugget_from_smelting": {
+    "criteria": {
+      "has_silver_helmet": "2025-02-17 01:15:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
