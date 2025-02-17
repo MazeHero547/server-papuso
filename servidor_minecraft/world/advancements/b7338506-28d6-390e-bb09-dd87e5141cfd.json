@@ -5302,9 +5302,21 @@
     },
     "done": true
   },
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-17 00:15:27 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gloomoth": {
     "criteria": {
       "killed": "2025-02-17 00:09:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_silk": {
+    "criteria": {
+      "desolate_dagger": "2025-02-17 00:12:48 +0000"
     },
     "done": true
   },

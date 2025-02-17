@@ -6900,6 +6900,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-02-17 00:19:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gloomoth": {
     "criteria": {
       "killed": "2025-02-17 00:09:30 +0000"
@@ -6909,6 +6915,12 @@
   "biomancy:recipes/biomancy/decomposing/corrodent_teeth": {
     "criteria": {
       "has_corrodent_teeth": "2025-02-16 23:57:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_silk": {
+    "criteria": {
+      "desolate_dagger": "2025-02-17 00:18:21 +0000"
     },
     "done": true
   },
