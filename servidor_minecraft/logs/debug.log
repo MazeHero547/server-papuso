@@ -3754,3 +3754,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Feb2025 01:01:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
 [17Feb2025 01:01:49.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [17Feb2025 01:01:49.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[17Feb2025 01:06:49.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[17Feb2025 01:06:49.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[17Feb2025 01:11:49.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[17Feb2025 01:11:49.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
