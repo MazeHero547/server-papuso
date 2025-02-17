@@ -5296,5 +5296,23 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_underzealot": {
+    "criteria": {
+      "killed_by_underzealot": "2025-02-17 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-02-17 00:09:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_forsaken": {
+    "criteria": {
+      "killed": "2025-02-17 00:06:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

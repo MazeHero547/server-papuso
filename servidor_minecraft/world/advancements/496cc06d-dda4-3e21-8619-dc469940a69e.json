@@ -6900,6 +6900,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-02-17 00:09:30 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/corrodent_teeth": {
     "criteria": {
       "has_corrodent_teeth": "2025-02-16 23:57:19 +0000"
@@ -6921,6 +6927,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-16 23:37:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_forsaken": {
+    "criteria": {
+      "killed": "2025-02-17 00:08:17 +0000"
     },
     "done": true
   },

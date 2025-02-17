@@ -1,1 +1,18 @@
 [17Feb2025 00:01:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [This is my Boomstick]
+[17Feb2025 00:01:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Hans Moleman]
+[17Feb2025 00:02:42.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[17Feb2025 00:02:42.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[17Feb2025 00:05:08.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:48695] logged in with entity id 13514 at (21.992972844685077, 95.0, 25.47213601716985)
+[17Feb2025 00:05:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[17Feb2025 00:05:08.306] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[17Feb2025 00:06:04.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Forsaken
+[17Feb2025 00:06:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has completed the challenge [Demonslayer]
+[17Feb2025 00:06:18.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
+[17Feb2025 00:06:57.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 had their ears melted by Forsaken
+[17Feb2025 00:07:09.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Forsaken
+[17Feb2025 00:07:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Forsaken
+[17Feb2025 00:08:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Demonslayer]
+[17Feb2025 00:09:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Feb2025 00:09:30.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Got Lamps?]
+[17Feb2025 00:09:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Got Lamps?]
+[17Feb2025 00:09:35.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
