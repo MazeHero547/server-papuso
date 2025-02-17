@@ -5302,6 +5302,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-02-17 00:26:58 +0000"
+    },
+    "done": true
+  },
   "biomancy:recipes/biomancy/decomposing/baked_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-17 00:15:27 +0000"
