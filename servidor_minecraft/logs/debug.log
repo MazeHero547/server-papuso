@@ -3479,3 +3479,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Feb2025 00:31:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
 [17Feb2025 00:31:49.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
 [17Feb2025 00:31:49.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[17Feb2025 00:35:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Feb2025 00:35:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was shot by Skeleton
+[17Feb2025 00:35:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Blot Out The Sun]
+[17Feb2025 00:35:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Paint It Black]
+[17Feb2025 00:36:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[17Feb2025 00:36:13.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Chattering Teeth]
+[17Feb2025 00:36:33.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Feb2025 00:36:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[17Feb2025 00:36:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> [name:"xp prob", x:4617, y:21, z:1385, dim:minecraft:overworld]
+[17Feb2025 00:36:49.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[17Feb2025 00:36:49.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[17Feb2025 00:39:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Feb2025 00:40:02.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[17Feb2025 00:41:49.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save New World
+[17Feb2025 00:41:49.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete New World
+[17Feb2025 00:41:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[17Feb2025 00:42:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]

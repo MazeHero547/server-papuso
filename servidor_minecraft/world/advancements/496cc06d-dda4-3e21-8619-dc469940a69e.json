@@ -6894,6 +6894,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-02-17 00:36:13 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_corrodent": {
     "criteria": {
       "killed": "2025-02-16 23:57:10 +0000"
@@ -6915,6 +6921,12 @@
   "biomancy:recipes/biomancy/decomposing/corrodent_teeth": {
     "criteria": {
       "has_corrodent_teeth": "2025-02-16 23:57:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-02-17 00:35:41 +0000"
     },
     "done": true
   },
@@ -6951,6 +6963,13 @@
   "alexscaves:alexscaves/defeat_watcher": {
     "criteria": {
       "killed": "2025-02-17 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2025-02-17 00:35:46 +0000",
+      "tunic": "2025-02-17 00:35:47 +0000"
     },
     "done": true
   },
