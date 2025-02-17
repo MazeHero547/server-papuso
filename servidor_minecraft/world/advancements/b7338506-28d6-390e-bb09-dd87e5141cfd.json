@@ -5302,15 +5302,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "alexscaves:alexscaves/defeat_forsaken": {
     "criteria": {
-      "burrowing_arrow": "2025-02-17 00:26:58 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/baked_potato": {
-    "criteria": {
-      "has_baked_potato": "2025-02-17 00:15:27 +0000"
+      "killed": "2025-02-17 00:06:10 +0000"
     },
     "done": true
   },
@@ -5326,9 +5320,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_forsaken": {
+  "biomancy:recipes/biomancy/decomposing/baked_potato": {
     "criteria": {
-      "killed": "2025-02-17 00:06:10 +0000"
+      "has_baked_potato": "2025-02-17 00:15:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-02-17 00:26:58 +0000"
     },
     "done": true
   },
