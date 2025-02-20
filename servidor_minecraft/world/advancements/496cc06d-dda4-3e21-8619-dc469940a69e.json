@@ -6985,9 +6985,45 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-02-20 17:29:52 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/walk_on_rock_candy": {
     "criteria": {
       "cave_book": "2025-02-20 17:22:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_candicorn": {
+    "criteria": {
+      "killed": "2025-02-20 17:35:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-02-20 17:34:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-02-20 17:29:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "yellow": "2025-02-20 17:28:57 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-02-20 17:33:38 +0000"
     },
     "done": true
   },

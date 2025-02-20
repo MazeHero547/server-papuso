@@ -498,3 +498,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Feb2025 17:32:43.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15374ms or 307 ticks behind
 [20Feb2025 17:33:15.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16328ms or 326 ticks behind
 [20Feb2025 17:33:38.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [I Found the Coin Slot]
+[20Feb2025 17:33:49.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19205ms or 384 ticks behind
+[20Feb2025 17:34:24.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[20Feb2025 17:34:25.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[20Feb2025 17:34:25.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Feb2025 17:34:27.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23344ms or 466 ticks behind
+[20Feb2025 17:34:53.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [A Day at the Fair]
+[20Feb2025 17:34:55.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[20Feb2025 17:35:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Rainbows and Candicorns]
+[20Feb2025 17:35:08.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[20Feb2025 17:35:14.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Feb2025 17:35:31.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[20Feb2025 17:35:39.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20Feb2025 17:35:46.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.5130552100963541
+[20Feb2025 17:35:46.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 1.3510717809404014
+[20Feb2025 17:35:47.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.3234352775650109
+[20Feb2025 17:35:47.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 1.1023307618251295
+[20Feb2025 17:35:47.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 1.9087714010110517
+[20Feb2025 17:35:52.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.254.193.119:47153] logged in with entity id 6103 at (4617.176268686859, 11.875, 1392.699999988079)
+[20Feb2025 17:35:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[20Feb2025 17:35:53.027] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:36:04.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10459ms or 209 ticks behind
+[20Feb2025 17:36:22.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.32439290304319
+[20Feb2025 17:36:29.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[20Feb2025 17:36:29.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[20Feb2025 17:36:30.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10527ms or 210 ticks behind
+[20Feb2025 17:36:57.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Feb2025 17:37:19.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.31872020968876313
+[20Feb2025 17:37:20.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.7070213593497101
+[20Feb2025 17:37:20.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.949973664504796
+[20Feb2025 17:37:20.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 1.501136349227636
+[20Feb2025 17:37:20.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 2.1305503255653093
+[20Feb2025 17:37:20.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.5503612072170654
+[20Feb2025 17:37:20.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.5727653871763323
+[20Feb2025 17:37:20.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.5628143859157717
+[20Feb2025 17:37:20.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.4790786124603983
+[20Feb2025 17:37:20.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Candicorn (vehicle of MazeHero547) moved wrongly! 0.7099553204986364
+[20Feb2025 17:37:59.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.254.193.119:37609] logged in with entity id 7430 at (4617.176268686859, 11.875, 1392.699999988079)
+[20Feb2025 17:37:59.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[20Feb2025 17:37:59.360] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:38:03.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[20Feb2025 17:38:20.545] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[20Feb2025 17:38:20.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[20Feb2025 17:38:26.799] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8081ms or 161 ticks behind
+[20Feb2025 17:39:05.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Caramel Cube
+[20Feb2025 17:39:40.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.254.193.119:45731] logged in with entity id 7993 at (4616.66423618918, 11.875, 1392.699999988079)
+[20Feb2025 17:39:40.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[20Feb2025 17:39:40.774] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:40:08.664] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[20Feb2025 17:40:08.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[20Feb2025 17:41:46.029] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.254.193.119:58097] logged in with entity id 8516 at (4616.66423618918, 11.875, 1392.699999988079)
+[20Feb2025 17:41:46.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[20Feb2025 17:41:46.106] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:41:48.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[20Feb2025 17:42:06.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3016ms or 60 ticks behind
+[20Feb2025 17:42:28.351] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2533ms or 50 ticks behind
+[20Feb2025 17:42:51.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
+[20Feb2025 17:43:20.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13943ms or 278 ticks behind
+[20Feb2025 17:43:43.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7965ms or 159 ticks behind
+[20Feb2025 17:43:54.249] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:soul_black_smith took 664 ms
+[20Feb2025 17:44:03.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4818ms or 96 ticks behind
+[20Feb2025 17:44:22.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4227ms or 84 ticks behind
