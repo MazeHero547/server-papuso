@@ -4532,7 +4532,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-03 01:22:58 +0000",
-      "minecraft:nether_wastes": "2025-02-03 01:26:02 +0000"
+      "minecraft:nether_wastes": "2025-02-03 01:26:02 +0000",
+      "minecraft:soul_sand_valley": "2025-02-20 17:43:04 +0000",
+      "minecraft:basalt_deltas": "2025-02-20 17:45:50 +0000"
     },
     "done": false
   },
@@ -6997,9 +6999,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-02-20 17:52:50 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tame_candicorn": {
     "criteria": {
       "killed": "2025-02-20 17:35:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-20 17:53:33 +0000"
     },
     "done": true
   },
@@ -7021,9 +7035,21 @@
     },
     "done": false
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-02-20 17:53:04 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gumbeeper": {
     "criteria": {
       "killed": "2025-02-20 17:33:38 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-20 17:45:19 +0000"
     },
     "done": true
   },

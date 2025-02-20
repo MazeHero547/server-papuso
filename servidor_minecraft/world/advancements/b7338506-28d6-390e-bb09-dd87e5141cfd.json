@@ -43,6 +43,7 @@
       "minecraft:snowy_plains": "2025-02-12 18:54:05 +0000",
       "minecraft:stony_shore": "2025-02-12 20:01:04 +0000",
       "minecraft:dripstone_caves": "2025-02-01 00:09:18 +0000",
+      "minecraft:snowy_taiga": "2025-02-20 17:46:26 +0000",
       "minecraft:grove": "2025-02-12 18:47:16 +0000",
       "minecraft:forest": "2025-02-01 01:58:37 +0000",
       "minecraft:frozen_peaks": "2025-02-01 01:54:06 +0000",
@@ -5341,6 +5342,86 @@
   "caverns_and_chasms:recipes/misc/silver_nugget_from_smelting": {
     "criteria": {
       "has_silver_helmet": "2025-02-17 01:15:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-02-20 17:46:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-02-20 17:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-20 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-20 17:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-20 17:48:53 +0000",
+      "minecraft:nether_wastes": "2025-02-20 17:51:21 +0000",
+      "minecraft:basalt_deltas": "2025-02-20 17:50:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-20 17:50:22 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-02-20 17:50:23 +0000"
     },
     "done": true
   },

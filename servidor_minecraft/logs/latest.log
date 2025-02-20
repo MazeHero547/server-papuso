@@ -559,3 +559,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [20Feb2025 17:43:54.249] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:soul_black_smith took 664 ms
 [20Feb2025 17:44:03.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4818ms or 96 ticks behind
 [20Feb2025 17:44:22.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4227ms or 84 ticks behind
+[20Feb2025 17:44:52.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14746ms or 294 ticks behind
+[20Feb2025 17:45:15.714] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[20Feb2025 17:45:15.748] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[20Feb2025 17:45:17.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 32.500000, 45.875000, -879.500000]
+[20Feb2025 17:45:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Feb2025 17:45:18.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved too quickly! 0.0,-10.80652611000901,0.0
+[20Feb2025 17:45:19.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [The Soul Forge]
+[20Feb2025 17:45:26.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19039ms or 380 ticks behind
+[20Feb2025 17:45:53.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
+[20Feb2025 17:46:00.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Yellow Brick Road]
+[20Feb2025 17:46:00.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has reached the goal [Pure Imagination]
+[20Feb2025 17:46:11.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MazeHero547> [name:"Netherite monstrosity", x:71, y:37, z:-851, dim:minecraft:the_nether]
+[20Feb2025 17:48:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [We Need to Go Deeper]
+[20Feb2025 17:49:31.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 tried to swim in lava
+[20Feb2025 17:50:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [The Soul Forge]
+[20Feb2025 17:51:18.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Netherite Monstrosity
+[20Feb2025 17:51:21.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Netherite Monstrosity
+[20Feb2025 17:52:03.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
+[20Feb2025 17:52:03.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
+[20Feb2025 17:52:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 tried to swim in lava
+[20Feb2025 17:53:04.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [The broken Nether's warmachine]
+[20Feb2025 17:53:33.296] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.254.193.119:33049] logged in with entity id 22455 at (48.165441625932175, 36.0, -853.4900824595882)
+[20Feb2025 17:53:33.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[20Feb2025 17:53:33.355] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:53:33.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Straddle My Ol' Saddle]
+[20Feb2025 17:53:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 tried to swim in lava
+[20Feb2025 17:54:38.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Hidden in the Depths]
