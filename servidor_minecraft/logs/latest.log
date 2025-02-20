@@ -1,102 +1,468 @@
-[17Feb2025 00:01:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [This is my Boomstick]
-[17Feb2025 00:01:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Hans Moleman]
-[17Feb2025 00:02:42.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
-[17Feb2025 00:02:42.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
-[17Feb2025 00:05:08.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:48695] logged in with entity id 13514 at (21.992972844685077, 95.0, 25.47213601716985)
-[17Feb2025 00:05:08.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
-[17Feb2025 00:05:08.306] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
-[17Feb2025 00:06:04.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Forsaken
-[17Feb2025 00:06:10.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has completed the challenge [Demonslayer]
-[17Feb2025 00:06:18.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 moved wrongly!
-[17Feb2025 00:06:57.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 had their ears melted by Forsaken
-[17Feb2025 00:07:09.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Forsaken
-[17Feb2025 00:07:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Forsaken
-[17Feb2025 00:08:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has completed the challenge [Demonslayer]
-[17Feb2025 00:09:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:09:30.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Got Lamps?]
-[17Feb2025 00:09:31.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Got Lamps?]
-[17Feb2025 00:09:35.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:12:48.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Black Velvet]
-[17Feb2025 00:18:21.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Black Velvet]
-[17Feb2025 00:18:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:18:58.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Adventure Mode]
-[17Feb2025 00:19:08.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was slain by Underzealot
-[17Feb2025 00:19:11.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Underzealot
-[17Feb2025 00:19:42.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Knives Out]
-[17Feb2025 00:20:00.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:20:43.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Underzealot
-[17Feb2025 00:20:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Adventure Mode]
-[17Feb2025 00:21:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was slain by Underzealot
-[17Feb2025 00:22:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:26:58.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 has made the advancement [Chattering Teeth]
-[17Feb2025 00:31:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Adventure Mode]
-[17Feb2025 00:31:18.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:31:20.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:35:31.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:35:37.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 was shot by Skeleton
-[17Feb2025 00:35:41.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Blot Out The Sun]
-[17Feb2025 00:35:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Paint It Black]
-[17Feb2025 00:36:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:36:13.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Chattering Teeth]
-[17Feb2025 00:36:33.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:36:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:36:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PhantomThief1210> [name:"xp prob", x:4617, y:21, z:1385, dim:minecraft:overworld]
-[17Feb2025 00:39:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:40:02.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:41:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:42:00.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:44:39.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:44:40.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:44:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:44:45.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:45:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:45:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:47:37.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:47:38.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:47:40.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:49:00.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:49:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:51:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:51:52.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:51:57.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:53:46.793] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
-[17Feb2025 00:53:46.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
-[17Feb2025 00:54:31.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 00:54:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:55:14.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:55311] logged in with entity id 29080 at (4615.842765515853, 13.0, 1391.300000011921)
-[17Feb2025 00:55:14.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
-[17Feb2025 00:55:14.158] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
-[17Feb2025 00:55:18.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 00:55:21.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:55:33.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 00:55:35.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:55:40.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 00:55:44.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:55:55.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 00:55:58.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:56:08.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 00:56:30.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 00:57:18.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 was shot by Skeleton
-[17Feb2025 00:59:36.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 01:00:02.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 01:00:18.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Applied effect Invisibility to MazeHero547]
-[17Feb2025 01:00:21.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 01:00:23.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 01:00:25.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 01:00:37.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 01:00:38.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 01:00:40.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
-[17Feb2025 01:00:41.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
-[17Feb2025 01:00:44.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Survival Mode]
-[17Feb2025 01:01:11.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MazeHero547 lost connection: Disconnected
-[17Feb2025 01:01:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 left the game
-[17Feb2025 01:21:01.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Timed out
-[17Feb2025 01:21:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
-[17Feb2025 01:21:19.687] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:60907] logged in with entity id 33456 at (4616.487100178518, 11.875, 1392.699999988079)
-[17Feb2025 01:21:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
-[17Feb2025 01:21:19.722] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
-[17Feb2025 01:21:38.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PhantomThief1210 lost connection: Disconnected
-[17Feb2025 01:21:38.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 left the game
-[17Feb2025 01:22:51.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.104.197.33:41393] logged in with entity id 33799 at (4616.487100178518, 11.875, 1392.699999988079)
-[17Feb2025 01:22:51.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
-[17Feb2025 01:22:51.925] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:13:09.028] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Feb2025 17:13:09.036] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[20Feb2025 17:13:16.924] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Feb2025 17:13:17.064] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/server-papuso/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Feb2025 17:13:18.202] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-papuso/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Feb2025 17:13:18.212] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-papuso/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Feb2025 17:13:18.213] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-papuso/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Feb2025 17:13:18.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/server-papuso/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Feb2025 17:13:18.754] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[20Feb2025 17:13:25.073] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Feb2025 17:13:25.360] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Feb2025 17:13:26.162] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 86 options available, 0 override(s) found
+[20Feb2025 17:13:26.165] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[20Feb2025 17:13:26.222] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[20Feb2025 17:13:26.656] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Feb2025 17:13:26.696] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 84 options available, 0 override(s) found
+[20Feb2025 17:13:26.880] [main/WARN] [mixin/]: Error loading class: tfar/davespotioneering/blockentity/AdvancedBrewingStandBlockEntity (java.lang.ClassNotFoundException: tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity)
+[20Feb2025 17:13:26.881] [main/WARN] [mixin/]: @Mixin target tfar.davespotioneering.blockentity.AdvancedBrewingStandBlockEntity was not found itemproductionlib.mixins.json:davespotioneering/AdvancedBrewingStandBlockEntityMixin
+[20Feb2025 17:13:26.883] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/CookingPotBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity)
+[20Feb2025 17:13:26.884] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.CookingPotBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/CookingPotBlockEntityMixin
+[20Feb2025 17:13:26.891] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/entity/StoveBlockEntity (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.entity.StoveBlockEntity)
+[20Feb2025 17:13:26.896] [main/WARN] [mixin/]: @Mixin target vectorwing.farmersdelight.common.block.entity.StoveBlockEntity was not found itemproductionlib.mixins.json:farmersdelight/StoveBlockEntityMixin
+[20Feb2025 17:13:26.903] [main/WARN] [mixin/]: Error loading class: fuzs/visualworkbench/world/inventory/ModCraftingMenu (java.lang.ClassNotFoundException: fuzs.visualworkbench.world.inventory.ModCraftingMenu)
+[20Feb2025 17:13:26.905] [main/WARN] [mixin/]: @Mixin target fuzs.visualworkbench.world.inventory.ModCraftingMenu was not found itemproductionlib.mixins.json:visualworkbench/ModCraftingMenuMixin
+[20Feb2025 17:13:27.179] [main/WARN] [mixin/]: Error loading class: fuzs/easymagic/world/inventory/ModEnchantmentMenu (java.lang.ClassNotFoundException: fuzs.easymagic.world.inventory.ModEnchantmentMenu)
+[20Feb2025 17:13:27.184] [main/WARN] [mixin/]: @Mixin target fuzs.easymagic.world.inventory.ModEnchantmentMenu was not found skilltree.mixins.json:easymagic/ModEnchantmentMenuMixin
+[20Feb2025 17:13:27.187] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/ench/table/ApothEnchantmentMenu (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu)
+[20Feb2025 17:13:27.188] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.ench.table.ApothEnchantmentMenu was not found skilltree.mixins.json:apotheosis/ApothEnchantContainerMixin
+[20Feb2025 17:13:27.195] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/SocketingRecipe (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe)
+[20Feb2025 17:13:27.195] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.SocketingRecipe was not found skilltree.mixins.json:apotheosis/SocketingRecipeMixin
+[20Feb2025 17:13:27.200] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/AttributeBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus)
+[20Feb2025 17:13:27.200] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.AttributeBonus was not found skilltree.mixins.json:apotheosis/AttributeBonusMixin
+[20Feb2025 17:13:27.204] [main/WARN] [mixin/]: Error loading class: dev/shadowsoffire/apotheosis/adventure/socket/gem/bonus/EnchantmentBonus (java.lang.ClassNotFoundException: dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus)
+[20Feb2025 17:13:27.207] [main/WARN] [mixin/]: @Mixin target dev.shadowsoffire.apotheosis.adventure.socket.gem.bonus.EnchantmentBonus was not found skilltree.mixins.json:apotheosis/EnchantmentBonusMixin
+[20Feb2025 17:13:32.043] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20Feb2025 17:13:36.564] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (38.70 s after launch)
+[20Feb2025 17:13:37.893] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[20Feb2025 17:13:37.896] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[20Feb2025 17:13:43.033] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 6461 milliseconds
+[20Feb2025 17:13:51.905] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjb000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[20Feb2025 17:13:54.352] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+
+[20Feb2025 17:13:56.578] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[20Feb2025 17:13:57.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Feb2025 17:13:57.681] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[20Feb2025 17:13:57.686] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[20Feb2025 17:13:57.687] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[20Feb2025 17:13:57.693] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[20Feb2025 17:13:57.694] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[20Feb2025 17:13:57.695] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[20Feb2025 17:13:57.697] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[20Feb2025 17:13:59.196] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/server-papuso/servidor_minecraft/config/illageandspillage-client.toml
+[20Feb2025 17:13:59.198] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/server-papuso/servidor_minecraft/config/illageandspillage-client.toml
+[20Feb2025 17:13:59.199] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/server-papuso/servidor_minecraft/config/illageandspillage-client.toml
+[20Feb2025 17:13:59.202] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loading config: /workspaces/server-papuso/servidor_minecraft/config/illageandspillage-common.toml
+[20Feb2025 17:13:59.212] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Built config: /workspaces/server-papuso/servidor_minecraft/config/illageandspillage-common.toml
+[20Feb2025 17:13:59.214] [modloading-worker-0/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Loaded config: /workspaces/server-papuso/servidor_minecraft/config/illageandspillage-common.toml
+[20Feb2025 17:13:59.678] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Feb2025 17:13:59.678] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Feb2025 17:14:00.244] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[20Feb2025 17:14:08.016] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[20Feb2025 17:14:09.065] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[20Feb2025 17:14:10.168] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Starting version check at https://updates.blamejared.com/get?n=attributefix&gv=1.20.1
+[20Feb2025 17:14:10.915] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [attributefix] Found status: BETA Current: 21.0.4 Target: 21.0.4
+[20Feb2025 17:14:10.916] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[20Feb2025 17:14:11.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[20Feb2025 17:14:11.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[20Feb2025 17:14:11.183] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[20Feb2025 17:14:11.184] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2d647bef]
+[20Feb2025 17:14:11.189] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[20Feb2025 17:14:11.249] [main/INFO] [journeymap/]: Initializing Packet Registries
+[20Feb2025 17:14:11.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.8 Target: 1.0.9
+[20Feb2025 17:14:11.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Starting version check at https://api.modrinth.com/updates/uAAuyU4M/forge_updates.json
+[20Feb2025 17:14:11.410] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[20Feb2025 17:14:11.430] [main/INFO] [Biomancy/ModsCompatHandler]: Setup Alex's Caves compat...
+[20Feb2025 17:14:11.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [biomancy] Found status: BETA Current: 2.8.19.0 Target: 2.8.19.0
+[20Feb2025 17:14:11.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[20Feb2025 17:14:11.997] [modloading-worker-0/INFO] [AttributeFix/]: Loaded values for 30 compatible attributes.
+[20Feb2025 17:14:12.008] [modloading-worker-0/INFO] [AttributeFix/]: Loaded 30 values from config.
+[20Feb2025 17:14:12.025] [modloading-worker-0/INFO] [AttributeFix/]: Saving config file. 30 entries.
+[20Feb2025 17:14:12.032] [modloading-worker-0/INFO] [AttributeFix/]: Applying changes for 30 attributes.
+[20Feb2025 17:14:12.079] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[20Feb2025 17:14:12.109] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[20Feb2025 17:14:12.115] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[20Feb2025 17:14:12.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[20Feb2025 17:14:12.294] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Feb2025 17:14:12.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.33
+[20Feb2025 17:14:12.479] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.482] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.483] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.484] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.484] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.485] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.485] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.485] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.486] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.486] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.487] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.488] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.490] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.493] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.493] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.494] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.495] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.496] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.497] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.498] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.506] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.506] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.508] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.508] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.509] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.509] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.510] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.510] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.512] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.512] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.513] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.516] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.517] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.517] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.517] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.517] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.518] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.519] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.520] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.521] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.522] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.523] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.526] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.526] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.527] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:12.527] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:12.979] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[20Feb2025 17:14:12.981] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[20Feb2025 17:14:12.983] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[20Feb2025 17:14:13.039] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Feb2025 17:14:13.331] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.334] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.334] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.335] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.335] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.336] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.338] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.340] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.341] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.342] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.343] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.344] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.356] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.356] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.357] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.357] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.359] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.359] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.361] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.362] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.363] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.364] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.364] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.369] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.370] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.370] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.371] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.371] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.371] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.372] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.372] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.373] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.373] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.373] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.379] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.380] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.380] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.380] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.381] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.382] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.382] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.382] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.383] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.383] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.384] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.384] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.385] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.387] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.387] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.392] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.392] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.393] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.549] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.568] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.576] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.577] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.578] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.587] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.589] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.589] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.591] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.593] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.595] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.595] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.596] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.597] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.598] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.599] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.600] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.601] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.606] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.609] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.612] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.625] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.625] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.625] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.626] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.626] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.626] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.628] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.629] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.630] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.631] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.638] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.642] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.643] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.643] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.644] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.645] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.647] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.653] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.653] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.654] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.654] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.654] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.656] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.656] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.656] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.663] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.663] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.663] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.663] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.664] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.664] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.664] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.665] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.665] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.665] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:bone has no attributes
+[20Feb2025 17:14:13.665] [main/ERROR] [net.minecraft.Util/]: Entity illageandspillage:axe has no attributes
+[20Feb2025 17:14:13.996] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-papuso/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/assets/.mcassetsroot' uses unexpected schema
+[20Feb2025 17:14:13.997] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/server-papuso/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23171!/data/.mcassetsroot' uses unexpected schema
+[20Feb2025 17:14:15.557] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Successfully loaded 0 data remolders!
+[20Feb2025 17:14:18.329] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[20Feb2025 17:14:18.387] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[20Feb2025 17:14:19.014] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.6.2 MC 1.20.1.jar)
+[20Feb2025 17:14:21.170] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23176!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23171!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[20Feb2025 17:14:25.477] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 18 modifier groups
+[20Feb2025 17:14:25.611] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[10].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.611] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.614] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.616] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.616] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.617] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.617] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[2].entries[2].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.617] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.618] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.619] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[0].entries[4].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.619] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.619] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[8].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.620] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[12].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.620] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.620] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.620] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.621] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.621] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.621] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.622] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[2].entries[1].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.622] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.623] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.623] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[8].functions[2]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.624] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[2].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.625] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.625] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[1].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.625] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[0].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.626] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[0].entries[9].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.626] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[7].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.627] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.628] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/musketeer_fort_loot}.pools[0].entries[3].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.628] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[11].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.629] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.630] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/plague_loot}.pools[0].entries[6].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.631] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:chests/hut_loot}.pools[1].entries[5].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[20Feb2025 17:14:25.702] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_slab_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.713] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:chiseled_azalea_bookshelf as it's serializer returned null
+[20Feb2025 17:14:25.718] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_ladder_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.750] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:ender_brazier as it's serializer returned null
+[20Feb2025 17:14:25.759] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_button_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.770] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_boards_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_button_from_azalea_planks_sawing as it's serializer returned null
+[20Feb2025 17:14:25.786] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_furnace_boat as it's serializer returned null
+[20Feb2025 17:14:25.807] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_ladder_from_azalea_planks_sawing as it's serializer returned null
+[20Feb2025 17:14:25.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_stairs_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.814] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_fence_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.817] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_trapdoor_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_stairs_from_azalea_planks_sawing as it's serializer returned null
+[20Feb2025 17:14:25.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_beehive as it's serializer returned null
+[20Feb2025 17:14:25.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:trapped_azalea_chest as it's serializer returned null
+[20Feb2025 17:14:25.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:large_azalea_boat as it's serializer returned null
+[20Feb2025 17:14:25.857] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:golden_milk_bucket as it's serializer returned null
+[20Feb2025 17:14:25.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_ladder as it's serializer returned null
+[20Feb2025 17:14:25.858] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_bookshelf as it's serializer returned null
+[20Feb2025 17:14:25.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_sign_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.859] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_pressure_plate_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
+[20Feb2025 17:14:25.868] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_boards as it's serializer returned null
+[20Feb2025 17:14:25.892] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
+[20Feb2025 17:14:25.908] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_door_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.914] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal: com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
+[20Feb2025 17:14:25.920] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_planks_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.922] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_fence_gate_from_azalea_logs_sawing as it's serializer returned null
+[20Feb2025 17:14:25.927] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_boards_from_azalea_planks_sawing as it's serializer returned null
+[20Feb2025 17:14:25.942] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_slab_from_azalea_planks_sawing as it's serializer returned null
+[20Feb2025 17:14:25.946] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_chest as it's serializer returned null
+[20Feb2025 17:14:25.949] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe caverns_and_chasms:azalea_fence_from_azalea_planks_sawing as it's serializer returned null
+[20Feb2025 17:14:25.957] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[20Feb2025 17:14:25.998] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 10 modifier groups
+[20Feb2025 17:14:26.375] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3327 advancements
+[20Feb2025 17:14:26.544] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[20Feb2025 17:14:26.640] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[20Feb2025 17:14:26.656] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[20Feb2025 17:14:28.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Feb2025 17:14:28.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Feb2025 17:14:28.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Feb2025 17:14:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Feb2025 17:14:28.359] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Feb2025 17:14:28.416] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Feb2025 17:14:28.608] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Feb2025 17:14:28.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Feb2025 17:14:28.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Feb2025 17:14:28.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Feb2025 17:14:28.652] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[20Feb2025 17:14:28.853] [Server thread/INFO] [Framework/]: Loading server configs...
+[20Feb2025 17:14:28.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Feb2025 17:14:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Feb2025 17:14:37.019] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.020] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.023] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.026] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.027] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.028] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.029] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.049] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.050] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.056] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.062] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.064] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.065] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.067] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.068] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.470] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:37.967] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:38.466] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Feb2025 17:14:39.713] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9747 ms
+[20Feb2025 17:14:39.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.077s)! For help, type "help"
+[20Feb2025 17:14:39.894] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Feb2025 17:14:40.095] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[20Feb2025 17:14:49.515] [Server thread/WARN] [ModernFix/]: Dedicated server took 111.654 seconds to load
+[20Feb2025 17:15:40.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MazeHero547[/127.7.104.67:49981] logged in with entity id 61 at (4613.418347603068, 12.0, 1391.699999988079)
+[20Feb2025 17:15:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 joined the game
+[20Feb2025 17:15:40.795] [Server thread/INFO] [Jade/]: Syncing config to MazeHero547 (496cc06d-dda4-3e21-8619-dc469940a69e)
+[20Feb2025 17:15:42.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[20Feb2025 17:15:47.696] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@338b12b3[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:42647) lost connection: Disconnected
+[20Feb2025 17:15:54.735] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11009f4f[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:42545) lost connection: Disconnected
+[20Feb2025 17:16:06.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@405bf1f1[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:43939) lost connection: Disconnected
+[20Feb2025 17:16:09.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11755ms or 235 ticks behind
+[20Feb2025 17:16:24.789] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b9b4da[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:46535) lost connection: Disconnected
+[20Feb2025 17:17:26.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7aa5204d[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:58693) lost connection: Disconnected
+[20Feb2025 17:18:04.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b43f2a[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:60347) lost connection: Disconnected
+[20Feb2025 17:18:05.988] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@42e127cb[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:32969) lost connection: Disconnected
+[20Feb2025 17:18:44.191] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@245b8107[id=<null>,name=PhantomThief1210,properties={},legacy=false] (/127.254.193.119:59773) lost connection: Disconnected
+[20Feb2025 17:21:01.770] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PhantomThief1210[/127.254.193.119:36855] logged in with entity id 1285 at (4616.487100178518, 11.875, 1392.699999988079)
+[20Feb2025 17:21:01.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PhantomThief1210 joined the game
+[20Feb2025 17:21:01.940] [Server thread/INFO] [Jade/]: Syncing config to PhantomThief1210 (b7338506-28d6-390e-bb09-dd87e5141cfd)
+[20Feb2025 17:21:06.273] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:candy_cavity took 1468 ms
+[20Feb2025 17:21:06.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
+[20Feb2025 17:21:22.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Teleported MazeHero547 to 5671.500000, -29.000000, 246.500000]
+[20Feb2025 17:21:22.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Feb2025 17:21:23.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has reached the goal [Pure Imagination]
+[20Feb2025 17:21:31.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9786ms or 195 ticks behind
+[20Feb2025 17:21:47.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Spectator Mode]
+[20Feb2025 17:22:07.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MazeHero547: Set own game mode to Creative Mode]
+[20Feb2025 17:22:13.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MazeHero547 has made the advancement [Yellow Brick Road]
+[20Feb2025 17:22:17.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20Feb2025 17:22:34.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[20Feb2025 17:22:51.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind

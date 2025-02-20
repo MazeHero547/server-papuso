@@ -6894,9 +6894,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "burrowing_arrow": "2025-02-17 00:36:13 +0000"
+      "enchanted_item": "2025-02-16 23:37:00 +0000"
     },
     "done": true
   },
@@ -6906,15 +6906,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/desolate_dagger": {
+  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
     "criteria": {
-      "desolate_dagger": "2025-02-17 00:19:42 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_gloomoth": {
-    "criteria": {
-      "killed": "2025-02-17 00:09:30 +0000"
+      "has_coarse_dirt": "2025-02-16 23:57:17 +0000"
     },
     "done": true
   },
@@ -6924,39 +6918,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/dreadbow": {
-    "criteria": {
-      "dreadbow": "2025-02-17 00:35:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/shadow_silk": {
-    "criteria": {
-      "desolate_dagger": "2025-02-17 00:18:21 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_underzealot": {
     "criteria": {
       "killed_by_underzealot": "2025-02-16 23:59:53 +0000"
-    },
-    "done": true
-  },
-  "biomancy:recipes/biomancy/decomposing/coarse_dirt": {
-    "criteria": {
-      "has_coarse_dirt": "2025-02-16 23:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-02-16 23:37:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_forsaken": {
-    "criteria": {
-      "killed": "2025-02-17 00:08:17 +0000"
     },
     "done": true
   },
@@ -6966,10 +6930,46 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_forsaken": {
+    "criteria": {
+      "killed": "2025-02-17 00:08:17 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gloomoth": {
+    "criteria": {
+      "killed": "2025-02-17 00:09:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/shadow_silk": {
+    "criteria": {
+      "desolate_dagger": "2025-02-17 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-02-17 00:19:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dreadbow": {
+    "criteria": {
+      "dreadbow": "2025-02-17 00:35:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/shadow_armor": {
     "criteria": {
       "helmet": "2025-02-17 00:35:46 +0000",
       "tunic": "2025-02-17 00:35:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2025-02-17 00:36:13 +0000"
     },
     "done": true
   },
